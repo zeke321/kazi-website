@@ -1,0 +1,19 @@
+{
+  "reports": [
+    { "id": "2025", "label": "2025", "latest": true,
+      "subtitle": { "en": "18 new projects in Tanzania & Chad", "fr": "18 nouveaux projets en Tanzanie et au Tchad", "sw": "Miradi mipya 18 Tanzania na Chad" },
+      "pdf_en": "reports/KAZI-activity-report-2025-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2025-FR.pdf" },
+    { "id": "2024", "label": "2024", "latest": false,
+      "subtitle": { "en": "Tanzania & Chad", "fr": "Tanzanie et Tchad", "sw": "Tanzania na Chad" },
+      "pdf_en": "", "pdf_fr": "reports/KAZI-activity-report-2024-FR.pdf" },
+    { "id": "2023", "label": "2023", "latest": false,
+      "subtitle": { "en": "First Chad projects", "fr": "Premiers projets au Tchad", "sw": "Miradi ya kwanza Chad" },
+      "pdf_en": "reports/KAZI-activity-report-2023-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2023-FR.pdf" },
+    { "id": "2022", "label": "2022", "latest": false,
+      "subtitle": { "en": "Tanzania", "fr": "Tanzanie", "sw": "Tanzania" },
+      "pdf_en": "reports/KAZI-activity-report-2022-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2022-FR.pdf" },
+    { "id": "2019-2021", "label": "2019–2021", "latest": false,
+      "subtitle": { "en": "The early years", "fr": "Les premières années", "sw": "Miaka ya mwanzo" },
+      "pdf_en": "reports/KAZI-activity-report-2019-2021-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2019-2021-FR.pdf" }
+  ]
+}

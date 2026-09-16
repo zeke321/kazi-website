@@ -1,0 +1,14 @@
+{
+  "intro": {
+    "en": "KAZI Startfunding Switzerland has been recognised as a public-interest organisation since 2023. It is funded by the generous donations and membership fees of its members. Since 2025, the project has also been supported by public and private funders. The association warmly thanks its financial partners:",
+    "fr": "Le projet KAZI Startfunding Switzerland est reconnu d'utilité publique depuis 2023. Il est soutenu financièrement par les précieux dons et cotisations de ses membres. Depuis 2025, le projet est soutenu également par des bailleurs publics et privés. L'association remercie chaleureusement ses soutiens financiers :",
+    "sw": "KAZI Startfunding Switzerland imetambuliwa kama shirika la manufaa ya umma tangu 2023. Inafadhiliwa na michango na ada za uanachama za wanachama wake. Tangu 2025, mradi pia unasaidiwa na wafadhili wa umma na binafsi. Chama kinawashukuru kwa dhati wafadhili wake:"
+  },
+  "partners": [
+    { "name": "Ville de Genève", "url": "https://www.geneve.ch", "logo": "assets/partners/ville-de-geneve.svg" },
+    { "name": "Ville de Lancy", "url": "https://www.lancy.ch", "logo": "assets/partners/ville-de-lancy.svg" },
+    { "name": "Commune de Plan-les-Ouates", "url": "https://www.plan-les-ouates.ch", "logo": "assets/partners/plan-les-ouates.png" },
+    { "name": "Fondation Philanthropique Famille Sandoz", "url": "", "logo": "assets/partners/fondation-sandoz.svg" },
+    { "name": "Ville du Grand-Saconnex", "url": "https://www.grand-saconnex.ch", "logo": "assets/partners/ville-du-grand-saconnex.svg" }
+  ]
+}

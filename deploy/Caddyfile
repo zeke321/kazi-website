@@ -1,0 +1,47 @@
+# Caddy config for the KAZI website. Caddy gets and renews HTTPS certificates automatically.
+# kazi.example is replaced by the real domain when you run setup-vps.sh.
+
+kazi.example, www.kazi.example {
+	root * /var/www/kazi/live
+	file_server
+	encode zstd gzip
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		X-Frame-Options "SAMEORIGIN"
+		Permissions-Policy "camera=(), microphone=(), geolocation=()"
+		-Server
+	}
+
+	# Photos, logos and PDFs rarely change: cache them for a week.
+	# The page, script, styles and data: always check for a newer version.
+	@static path /assets/* /reports/*
+	header @static Cache-Control "public, max-age=604800"
+	@fresh path / /index.html /js/* /css/* /data/*
+	header @fresh Cache-Control "no-cache"
+
+	# Old Wix addresses -> sections of the new page
+	redir /blank /#about permanent
+	redir /blank-1 /#reports permanent
+	redir /blank-2 /#projects permanent
+	redir /blank-3-1 /#projects permanent
+	redir /blank-8 /#team-tz permanent
+	redir /blank-8-1 /#team-ch permanent
+	redir /swissteam /#team-ch permanent
+	redir /blank-24 /#team-td permanent
+
+	handle_errors 404 {
+		redir * / temporary
+	}
+}
+
+# Preview of the "preview" branch: check changes here before they go live.
+preview.kazi.example {
+	root * /var/www/kazi/preview
+	file_server
+	encode zstd gzip
+	header X-Robots-Tag "noindex, nofollow"
+	header Cache-Control "no-cache"
+}

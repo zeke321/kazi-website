@@ -1,0 +1,371 @@
+{
+  "teams": [
+    {
+      "id": "ch",
+      "name": {
+        "en": "Board / Comité, KAZI Switzerland",
+        "fr": "Comité / Board, KAZI Suisse",
+        "sw": "Bodi, KAZI Uswisi"
+      },
+      "intro": {
+        "en": "A team of volunteers with diverse professional backgrounds. The Swiss team raises funds, develops communication tools and supports project evaluation, as well as KAZI's administrative and legal structure in Switzerland, Tanzania and Chad.",
+        "fr": "Une équipe de bénévoles aux parcours professionnels variés. L'équipe suisse recherche des fonds, développe les outils de communication et soutient l'évaluation des projets, ainsi que la structure administrative et juridique de KAZI en Suisse, en Tanzanie et au Tchad.",
+        "sw": "Timu ya watu wanaojitolea wenye taaluma mbalimbali. Timu ya Uswisi inatafuta fedha, inaandaa zana za mawasiliano na inasaidia tathmini ya miradi, pamoja na muundo wa kiutawala na kisheria wa KAZI nchini Uswisi, Tanzania na Chad."
+      },
+      "members": [
+        {
+          "name": "Paul-Camille Genton",
+          "role": {
+            "en": "President",
+            "fr": "Président",
+            "sw": "Mwenyekiti"
+          },
+          "bio": {
+            "en": "Paul-Camille Genton is a Swiss medical doctor who has worked for several months at the Ifakara Health Institute in Tanzania. During an internship in Cameroon, he saw first-hand how healthcare in low-resource settings depends on people's economic situation. As a student, he co-founded a successful Swiss NGO pairing refugees with local residents. He then co-founded KAZI Startfunding, convinced that access to finance is key to sustainable economic development.",
+            "fr": "Paul-Camille Genton est un médecin suisse qui a travaillé plusieurs mois à l'Ifakara Health Institute, en Tanzanie. Lors d'un stage au Cameroun, il a vu combien la santé, là où les ressources manquent, dépend de la situation économique. Étudiant, il a cofondé en Suisse une ONG qui crée des tandems entre réfugiés et habitants. Il a ensuite cofondé KAZI Startfunding, convaincu que l'accès au financement est une clé du développement durable.",
+            "sw": "Paul-Camille Genton ni daktari kutoka Uswisi ambaye amefanya kazi kwa miezi kadhaa katika Taasisi ya Afya Ifakara, Tanzania. Akiwa katika mafunzo kwa vitendo nchini Kameruni, alishuhudia jinsi huduma za afya katika maeneo yenye rasilimali chache zinavyotegemea hali ya kiuchumi ya wananchi. Akiwa bado mwanafunzi, alianzisha pamoja na wenzake shirika lisilo la kiserikali nchini Uswisi linalowaunganisha wakimbizi na wakazi wa huko. Baadaye alianzisha KAZI Startfunding, akiamini kwamba upatikanaji wa fedha ni ufunguo wa maendeleo endelevu ya kiuchumi."
+          },
+          "photo": "assets/team/ch-paul-camille-genton.jpg"
+        },
+        {
+          "name": "Blandine Piaget",
+          "role": {
+            "en": "Vice-President",
+            "fr": "Vice-présidente",
+            "sw": "Makamu Mwenyekiti"
+          },
+          "bio": {
+            "en": "Blandine Piaget comes from Switzerland and works in the health sector. She holds a Master's degree in osteopathy and works in a health centre. She has developed a strong concern for ecology and the environment, which she sees as inseparable from caring for people. She believes in KAZI's approach: an international collaboration with a strong local impact and as little dependence on Switzerland as possible.",
+            "fr": "Blandine Piaget vient de Suisse et travaille dans le domaine de la santé. Titulaire d'un Master en ostéopathie, elle exerce dans un centre de santé. Elle a développé une sensibilité pour l'écologie et l'environnement, qu'elle considère comme indissociables d'une pratique de soins. Elle est convaincue par l'approche de KAZI : une collaboration internationale, avec un fort impact local et le moins de dépendance possible à la Suisse.",
+            "sw": "Blandine Piaget anatoka Uswisi na anafanya kazi katika sekta ya afya. Ana shahada ya uzamili katika tiba ya osteopathia na anafanya kazi katika kituo cha afya. Anajali sana ikolojia na mazingira, ambayo anaona hayatenganishwi na utoaji wa huduma za afya. Anaiamini njia ya KAZI: ushirikiano wa kimataifa wenye matokeo makubwa kwa jamii za ndani na utegemezi mdogo kabisa kwa Uswisi."
+          },
+          "photo": "assets/team/ch-blandine-piaget.jpg"
+        },
+        {
+          "name": "Benjamin Henrioud",
+          "role": {
+            "en": "Treasurer",
+            "fr": "Trésorier",
+            "sw": "Mweka Hazina"
+          },
+          "bio": {
+            "en": "Working in the academic and professional development sector, Benjamin Henrioud has eight years' experience in the Swiss banking industry and a Bachelor's degree in Business Economics from the Haute École de Gestion (HES-SO). He joined the KAZI Startfunding association in 2024 as Treasurer.",
+            "fr": "Actif dans le secteur académique et du développement professionnel, Benjamin Henrioud dispose d'une expérience de 8 ans dans l'industrie bancaire suisse et d'un Bachelor en Économie d'entreprise obtenu à la Haute École de Gestion (HES-SO). Il a rejoint l'association KAZI Startfunding en 2024 en tant que trésorier.",
+            "sw": "Benjamin Henrioud anafanya kazi katika sekta ya elimu na maendeleo ya kitaaluma. Ana uzoefu wa miaka minane katika sekta ya benki nchini Uswisi na shahada ya kwanza ya Uchumi wa Biashara kutoka Haute École de Gestion (HES-SO). Alijiunga na chama cha KAZI Startfunding mwaka 2024 kama Mweka Hazina."
+          },
+          "photo": "assets/team/ch-benjamin-henrioud.jpg"
+        },
+        {
+          "name": "Samuel Dubi",
+          "role": {
+            "en": "Secretary",
+            "fr": "Secrétaire",
+            "sw": "Katibu"
+          },
+          "bio": {
+            "en": "Samuel Dubi worked for many years at the Rolex group. Now retired, he brings the association his administrative and management experience. Through KAZI he takes part in a project that is especially close to his heart, and whose social and international dimension echoes his current commitments.",
+            "fr": "Samuel Dubi a travaillé de nombreuses années au sein du groupe Rolex. Aujourd'hui retraité, il apporte à l'association son expérience administrative et de gestion. Il participe ainsi à un projet qui lui tient particulièrement à cœur, dont la dimension sociale et internationale résonne avec ses engagements actuels.",
+            "sw": "Samuel Dubi alifanya kazi kwa miaka mingi katika kampuni ya Rolex. Sasa amestaafu, na analeta katika chama uzoefu wake wa utawala na usimamizi. Kupitia KAZI anashiriki katika mradi ulio karibu sana na moyo wake, ambao mwelekeo wake wa kijamii na kimataifa unaendana na shughuli anazojihusisha nazo sasa."
+          },
+          "photo": "assets/team/ch-samuel-dubi.jpg"
+        },
+        {
+          "name": "Eugénia Huguenin-Elie",
+          "role": {
+            "en": "Head of Strategy & Monitoring",
+            "fr": "Responsable stratégie et suivi",
+            "sw": "Mkuu wa Mikakati na Ufuatiliaji"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/ch-eugenia-huguenin-elie.jpg"
+        },
+        {
+          "name": "Mariia Bardina",
+          "role": {
+            "en": "IT Manager",
+            "fr": "Responsable informatique",
+            "sw": "Meneja wa TEHAMA"
+          },
+          "bio": {
+            "en": "Mariia Bardina was born in Russia and has worked with the Swiss team since 2022. After earning a law degree in 2016, she changed careers completely and has now been a QA engineer for more than eight years. She looks after the KAZI website and other IT needs. In summer 2022, she met several project leaders in Ifakara, Tanzania, and visited past and current KAZI-funded projects.",
+            "fr": "Née en Russie, Mariia Bardina collabore avec l'équipe suisse depuis 2022. Après un diplôme en droit obtenu en 2016, elle a complètement changé de voie et travaille depuis plus de huit ans comme ingénieure QA. Elle s'occupe du site web de KAZI et des autres besoins informatiques. À l'été 2022, elle a rencontré plusieurs porteurs de projets à Ifakara, en Tanzanie, et visité des projets financés par KAZI.",
+            "sw": "Mariia Bardina alizaliwa Urusi na amekuwa akishirikiana na timu ya Uswisi tangu 2022. Baada ya kupata shahada ya sheria mwaka 2016, alibadilisha kabisa taaluma yake na sasa amefanya kazi kama mhandisi wa uhakiki wa ubora wa programu (QA) kwa zaidi ya miaka minane. Anasimamia tovuti ya KAZI na mahitaji mengine ya TEHAMA. Mwaka 2022, alikutana na viongozi kadhaa wa miradi mjini Ifakara, Tanzania, na kutembelea miradi iliyofadhiliwa na KAZI."
+          },
+          "photo": "assets/team/ch-mariia-bardina.jpg"
+        },
+        {
+          "name": "Juliette Zbinden",
+          "role": {
+            "en": "Events Manager",
+            "fr": "Responsable événements",
+            "sw": "Meneja wa Matukio"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/ch-juliette-zbinden.jpg"
+        },
+        {
+          "name": "Lucas Giannini",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "With more than six years' experience in international trade and business development in Africa, Lucas Giannini is at ease doing business worldwide. When Paul-Camille asked him to help create KAZI Startfunding, he was immediately on board: he believes in people's abilities and wants to help them reach their goals. He holds a BSc from HEC Lausanne and a joint Tsinghua–MIT MBA, and has lived in Africa, Latin America, Europe and China.",
+            "fr": "Fort de plus de 6 ans dans le commerce international et le développement des affaires en Afrique, Lucas Giannini est à l'aise en affaires dans la plupart des régions du monde. Appelé par Paul-Camille pour créer KAZI Startfunding, il a tout de suite été motivé : il croit aux capacités des gens et veut les aider à atteindre leurs objectifs. Diplômé de HEC Lausanne (BSc) et d'un MBA Tsinghua–MIT, il a vécu sur quatre continents.",
+            "sw": "Akiwa na uzoefu wa zaidi ya miaka sita katika biashara ya kimataifa na ukuzaji wa biashara barani Afrika, Lucas Giannini anamudu kufanya biashara katika sehemu nyingi za dunia. Paul-Camille alipomwomba kusaidia kuanzisha KAZI Startfunding, alikubali mara moja: anaamini uwezo wa watu na anataka kuwasaidia kufikia malengo yao. Ana shahada ya Usimamizi kutoka HEC Lausanne na MBA ya pamoja ya Tsinghua na MIT. Ameishi Afrika, Amerika ya Kusini, Ulaya na China, na anazungumza lugha nne."
+          },
+          "photo": "assets/team/ch-lucas-giannini.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tz",
+      "name": {
+        "en": "KAZI Tanzania, Ifakara",
+        "fr": "KAZI Tanzanie, Ifakara",
+        "sw": "KAZI Tanzania, Ifakara"
+      },
+      "intro": {
+        "en": "Our local team in Ifakara receives applications, selects projects, pays out the loans and follows each entrepreneur until the loan is repaid.",
+        "fr": "Notre équipe locale à Ifakara reçoit les candidatures, sélectionne les projets, verse les prêts et accompagne chaque entrepreneur jusqu'au remboursement du prêt.",
+        "sw": "Timu yetu ya Ifakara inapokea maombi, inachagua miradi, inatoa mikopo na inamfuatilia kila mjasiriamali hadi mkopo wake urejeshwe."
+      },
+      "members": [
+        {
+          "name": "Michael Kasmiri",
+          "role": {
+            "en": "President",
+            "fr": "Président",
+            "sw": "Mwenyekiti"
+          },
+          "bio": {
+            "en": "Dr Michael Kasmiri is a physician at St. Francis Referral Hospital and local project manager for Charité University Hospital in Berlin, in the Health Telematics partnership with the Ifakara Health Institute and St. Francis Hospital. He works to improve care for HIV/TB patients in rural Tanzania by shortening the time from diagnosis to treatment. He graduated with honours from the University of Dodoma and the Institute of Rural Development Planning.",
+            "fr": "Le Dr Michael Kasmiri est médecin au St. Francis Referral Hospital et chef de projet local pour l'hôpital universitaire de la Charité (Berlin), dans le projet Health Telematics mené avec l'Ifakara Health Institute et l'hôpital St. Francis. Il s'efforce d'améliorer la prise en charge des patients VIH/tuberculose en zone rurale, en raccourcissant le délai entre diagnostic et traitement. Il est diplômé avec mention de l'Université de Dodoma et de l'Institute of Rural Development Planning.",
+            "sw": "Dkt. Michael Kasmiri ni daktari katika Hospitali ya Rufaa ya St. Francis na meneja wa mradi wa ndani wa Hospitali ya Chuo Kikuu cha Charité (Berlin), katika mradi wa Health Telematics unaoshirikisha Taasisi ya Afya Ifakara na Hospitali ya St. Francis. Anafanya kazi kuboresha huduma kwa wagonjwa wa VVU/TB vijijini Tanzania kwa kufupisha muda kati ya utambuzi wa ugonjwa na kuanza matibabu. Alihitimu kwa heshima katika Chuo Kikuu cha Dodoma na Taasisi ya Mipango ya Maendeleo Vijijini."
+          },
+          "photo": "assets/team/tz-michael-kasmiri.jpg"
+        },
+        {
+          "name": "Felician Clement Meza",
+          "role": {
+            "en": "Treasurer",
+            "fr": "Trésorier",
+            "sw": "Mweka Hazina"
+          },
+          "bio": {
+            "en": "Felician Clement Meza is a research scientist at the Ifakara Health Institute, which he joined in 2013 after a BSc in Applied Zoology from the University of Dar es Salaam. A Wellcome Trust Fellow from 2017 to 2020, he holds an MSc in Molecular Parasitology and Vector Biology from Keele University and the University of Salford (UK). He founded Unaweza, a network inspiring people to take responsibility for their lives, and shares KAZI's vision.",
+            "fr": "Felician Clement Meza est chercheur à l'Ifakara Health Institute, qu'il a rejoint en 2013 après un BSc en zoologie appliquée à l'Université de Dar es Salaam. Boursier du Wellcome Trust de 2017 à 2020, il est titulaire d'un MSc en parasitologie moléculaire et biologie des vecteurs (Keele University et University of Salford, Royaume-Uni). Il a fondé Unaweza, un réseau qui incite chacun à prendre sa vie en main, et partage la vision de KAZI.",
+            "sw": "Felician Clement Meza ni mwanasayansi mtafiti katika Taasisi ya Afya Ifakara, aliyojiunga nayo mwaka 2013 baada ya shahada ya Zoolojia Tumizi kutoka Chuo Kikuu cha Dar es Salaam. Alikuwa mtafiti wa Wellcome Trust kuanzia 2017 hadi 2020, na ana shahada ya uzamili ya Parasitolojia ya Molekuli na Biolojia ya Wadudu Waenezao Magonjwa kutoka Keele University na University of Salford (Uingereza). Alianzisha Unaweza, mtandao unaohamasisha watu kuwajibika kwa maisha yao, na anaunga mkono dira ya KAZI."
+          },
+          "photo": "assets/team/tz-felician-clement-meza.jpg"
+        },
+        {
+          "name": "Geofrey I. Ashery",
+          "role": {
+            "en": "Secretary",
+            "fr": "Secrétaire",
+            "sw": "Katibu"
+          },
+          "bio": {
+            "en": "Geofrey I. Ashery is a researcher with over eight years' experience in child and maternal health, and a sociology graduate of the Open University of Tanzania. He works as a research officer and social scientist at the Ifakara Health Institute on the DYNAMIC trial, which uses electronic decision trees to manage sick children. Passionate about improving the lives of disadvantaged women and children, he became one of the founders of KAZI Startfunding in Tanzania.",
+            "fr": "Geofrey I. Ashery est chercheur, avec plus de huit ans d'expérience en santé maternelle et infantile, et diplômé en sociologie de l'Open University of Tanzania. Il travaille comme chargé de recherche et sociologue à l'Ifakara Health Institute sur l'essai DYNAMIC, qui utilise des arbres de décision électroniques pour soigner les enfants malades. Soucieux d'améliorer la vie des femmes et des enfants défavorisés, il est l'un des fondateurs de KAZI Startfunding en Tanzanie.",
+            "sw": "Geofrey I. Ashery ni mtafiti mwenye uzoefu wa zaidi ya miaka minane katika afya ya mama na mtoto, na mhitimu wa sosholojia wa Chuo Kikuu Huria cha Tanzania. Anafanya kazi kama afisa utafiti na mwanasayansi wa jamii katika Taasisi ya Afya Ifakara, kwenye utafiti wa DYNAMIC unaotumia mifumo ya kielektroniki ya kufanya maamuzi kutibu watoto wagonjwa. Akiwa na shauku ya kuboresha maisha ya wanawake na watoto wasiojiweza, alikuwa mmoja wa waanzilishi wa KAZI Startfunding Tanzania."
+          },
+          "photo": "assets/team/tz-geofrey-ashery.jpg"
+        },
+        {
+          "name": "Everester Kessy",
+          "role": {
+            "en": "Project Coordinator",
+            "fr": "Coordinatrice de projets",
+            "sw": "Mratibu wa Miradi"
+          },
+          "bio": {
+            "en": "Everester Kessy is a social entrepreneur committed to serving children, disadvantaged youth, women and men. She is skilled at building community support and key coalitions, and driven to achieve organisational and individual goals. She obtained her degree in social work from the University of Dar es Salaam in 2020 and works as Project Coordinator at KAZI Startfunding Tanzania.",
+            "fr": "Everester Kessy est une entrepreneuse sociale engagée au service des enfants, des jeunes défavorisés, des femmes et des hommes. Douée pour mobiliser le soutien des communautés et créer des coalitions, elle est motivée par l'atteinte des objectifs collectifs et individuels. Diplômée en travail social de l'Université de Dar es Salaam en 2020, elle est coordinatrice de projets chez KAZI Startfunding Tanzanie.",
+            "sw": "Everester Kessy ni mjasiriamali wa kijamii aliyejitolea kuwahudumia watoto, vijana wasiojiweza, wanawake na wanaume. Ana ujuzi wa kujenga uungwaji mkono wa jamii na ushirikiano muhimu, na ana ari ya kufikia malengo ya taasisi na ya mtu binafsi. Alipata shahada ya ustawi wa jamii kutoka Chuo Kikuu cha Dar es Salaam mwaka 2020, na ni Mratibu wa Miradi wa KAZI Startfunding Tanzania."
+          },
+          "photo": "assets/team/tz-everester-kessy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "td",
+      "name": {
+        "en": "FEDJIN KAZI Chad",
+        "fr": "FEDJIN KAZI Tchad",
+        "sw": "FEDJIN KAZI Chad"
+      },
+      "intro": {
+        "en": "An association founded in December 2022 by young Chadians. It selects and follows projects in south-western Chad, including in Goumango and Dari.",
+        "fr": "Une association fondée en décembre 2022 par de jeunes Tchadiens. Elle sélectionne et accompagne des projets dans le sud-ouest du Tchad, notamment à Goumango et à Dari.",
+        "sw": "Chama kilichoanzishwa Desemba 2022 na vijana wa Chad. Kinachagua na kufuatilia miradi kusini-magharibi mwa Chad, ikiwemo Goumango na Dari."
+      },
+      "members": [
+        {
+          "name": "Fidèle Fri",
+          "role": {
+            "en": "Coordinator",
+            "fr": "Coordinateur",
+            "sw": "Mratibu"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-fidele-fri.jpg"
+        },
+        {
+          "name": "Rodrigue Army",
+          "role": {
+            "en": "Deputy coordinator",
+            "fr": "Coordinateur adjoint",
+            "sw": "Naibu Mratibu"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-rodrigue-army.jpg"
+        },
+        {
+          "name": "Salomon Ndoumwami",
+          "role": {
+            "en": "Programme officer",
+            "fr": "Chargé de programme",
+            "sw": "Afisa Programu"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-salomon-ndoumwami.jpg"
+        },
+        {
+          "name": "KOYE LOWASSI Hyacinthe TAO",
+          "role": {
+            "en": "Assistant programme officer",
+            "fr": "Chargé de programme adjoint",
+            "sw": "Afisa Programu Msaidizi"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-hyacinthe-koye-lowassi.jpg"
+        },
+        {
+          "name": "Maria Dikbo",
+          "role": {
+            "en": "Finance manager",
+            "fr": "Responsable financière",
+            "sw": "Meneja wa Fedha"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-maria-dikbo.jpg"
+        },
+        {
+          "name": "Odette Sotouksi",
+          "role": {
+            "en": "Communications officer",
+            "fr": "Chargée de communication",
+            "sw": "Afisa Mawasiliano"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-odette-sotouksi.jpg"
+        },
+        {
+          "name": "NADJI Emmanuel TAO",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-emmanuel-nadji.jpg"
+        },
+        {
+          "name": "NDJIGUEDAM Sylvain TAO",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-sylvain-ndjiguedam.jpg"
+        },
+        {
+          "name": "Olivier Ne-Issou",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-olivier-ne-issou.jpg"
+        },
+        {
+          "name": "NDOBO FALÏA",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-ndobo-falia.jpg"
+        },
+        {
+          "name": "Dr ALI BAFOU",
+          "role": {
+            "en": "Member",
+            "fr": "Membre",
+            "sw": "Mjumbe"
+          },
+          "bio": {
+            "en": "",
+            "fr": "",
+            "sw": ""
+          },
+          "photo": "assets/team/td-ali-bafou.jpg"
+        }
+      ]
+    }
+  ]
+}

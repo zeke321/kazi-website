@@ -1,0 +1,1135 @@
+{
+  "projects": [
+    {
+      "id": "tz-2025-soap-florida-lipiki",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "crafts",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Bar soap: Florida Lipiki",
+        "fr": "Savons en barre : Florida Lipiki",
+        "sw": "Sabuni za mche: Florida Lipiki"
+      },
+      "people": "Florida Lipiki",
+      "summary": {
+        "en": "With 15 years of experience in soap and batik making, Florida Lipiki (51) launched her own high-quality bar soap production. The loan funded raw materials and packaging.",
+        "fr": "Forte de 15 ans d'expérience dans la production de savons et de batiks, Florida Lipiki (51 ans) a lancé sa propre production de savons en barre de haute qualité. Le prêt a financé les matières premières et les emballages.",
+        "sw": "Akiwa na uzoefu wa miaka 15 katika kutengeneza sabuni na batiki, Florida Lipiki (miaka 51) ameanzisha uzalishaji wake wa sabuni za mche zenye ubora wa juu. Mkopo ulinunua malighafi na vifungashio."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 320)",
+      "photo": "assets/projects/tz-2025-soap-florida-lipiki.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. Status 'completed': report p.9 lists 'Bar soap project' as Success, 100% repaid (Feb-25 to Dec-25). Category crafts chosen (soap is not in the category examples).",
+      "featured": true
+    },
+    {
+      "id": "tz-2025-pads-dada-lead",
+      "country": "tz",
+      "place": "Kilombero",
+      "year": 2025,
+      "category": "health",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Reusable menstrual pads: Dada Lead",
+        "fr": "Serviettes menstruelles réutilisables : Dada Lead",
+        "sw": "Taulo za kike zinazotumika tena: Dada Lead"
+      },
+      "people": "Dada Lead",
+      "summary": {
+        "en": "Three women planned to sell over 3,000 reusable menstrual pads to schoolgirls in Kilombero. They ended their collaboration just after receiving the loan and repaid it in full.",
+        "fr": "Trois femmes voulaient commercialiser plus de 3'000 serviettes menstruelles réutilisables pour les écolières du Kilombero. Elles ont mis fin à leur collaboration juste après avoir reçu le prêt, qu'elles ont intégralement remboursé.",
+        "sw": "Wanawake watatu walipanga kuuza zaidi ya taulo 3,000 za kike zinazotumika tena kwa wanafunzi wa kike wa Kilombero. Walivunja ushirikiano wao mara baada ya kupokea mkopo na wakaurejesha wote."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 640)",
+      "photo": "assets/projects/tz-2025-pads-dada-lead.jpg",
+      "report": "2025",
+      "note": "Loan repaid but project DISCONTINUED (report category 'solvent'). Decide with Margaux whether to show it at all. Status set to 'completed' because the loan is closed. Report calls the product 'Elimisha'. Place = where the pads were meant to be sold (Kilombero). CHF computed at report rate 3,115 TZS/CHF. Source photo is low-res (361x489)."
+    },
+    {
+      "id": "tz-2025-palm-oil-said-dibwani",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "food",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Local palm oil: Said Maulid Dibwani (2nd loan)",
+        "fr": "Huile de palme locale : Said Maulid Dibwani (2e prêt)",
+        "sw": "Mafuta ya mawese: Said Maulid Dibwani (mkopo wa 2)"
+      },
+      "people": "Said Maulid Dibwani",
+      "summary": {
+        "en": "After a successful first loan in 2024, Said buys more palm fruit from local farmers, raises production by 50% and hires 4 employees. The project adds value to naturally growing palm trees and reduces dependence on imports.",
+        "fr": "Après un premier prêt réussi en 2024, ce second prêt permet à Said d'acheter plus de fruits de palmier aux petits producteurs, d'augmenter sa production de 50 % et d'embaucher 4 employé·es.",
+        "sw": "Baada ya mkopo wa kwanza uliofanikiwa mwaka 2024, Said ananunua matunda zaidi ya michikichi kutoka kwa wakulima wa eneo hilo, anaongeza uzalishaji kwa asilimia 50 na kuajiri wafanyakazi 4. Mradi unapunguza utegemezi wa mafuta kutoka nje."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 320)",
+      "photo": "assets/projects/tz-2025-palm-oil-said-dibwani.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. Report: 1st loan repaid, 2nd ongoing."
+    },
+    {
+      "id": "tz-2025-poultry-amani-b-sole",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Poultry farm: Amani 'B' Sole group (2nd loan)",
+        "fr": "Ferme avicole : groupe Amani 'B' Sole (2e prêt)",
+        "sw": "Ufugaji wa kuku: kikundi cha Amani 'B' Sole (mkopo wa 2)"
+      },
+      "people": "Amani 'B' Sole group",
+      "summary": {
+        "en": "After successfully launching their poultry farm, the group took a second loan to acquire their own building, an incubator, supplies and chicks. The project strengthens members' financial autonomy while producing food locally.",
+        "fr": "Après le lancement réussi de leur élevage, le groupe a obtenu un second prêt pour acquérir son propre bâtiment, un incubateur, les fournitures et des poussins. Le projet renforce l'autonomie financière de ses membres.",
+        "sw": "Baada ya kuanzisha kwa mafanikio mradi wao wa kuku, kikundi kilipata mkopo wa pili ili kununua jengo lao wenyewe, mashine ya kutotolesha vifaranga, vifaa na vifaranga. Mradi unaimarisha uhuru wa kifedha wa wanachama."
+      },
+      "amount": "TZS 6,000,000 (≈ CHF 1,930)",
+      "photo": "assets/projects/tz-2025-poultry-amani-b-sole.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. Report: 1st loan repaid, 2nd ongoing. Table p.9: mixed group of 16."
+    },
+    {
+      "id": "tz-2025-vegetables-said-kileo",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Vegetable farming: Saïd Haji Kileo",
+        "fr": "Maraîchage : Saïd Haji Kileo",
+        "sw": "Kilimo cha mboga na matunda: Saïd Haji Kileo"
+      },
+      "people": "Saïd Haji Kileo",
+      "summary": {
+        "en": "A trained teacher with three years of farming experience, Saïd (38) is growing more fruit and vegetables with quality seeds, better irrigation and two full-time workers, meeting local demand and improving food security.",
+        "fr": "Enseignant de formation avec trois ans d'expérience en production de fruits et légumes, Saïd (38 ans) augmente sa production grâce à des semences de qualité, une meilleure irrigation et deux employés à plein temps.",
+        "sw": "Akiwa mwalimu kitaaluma mwenye uzoefu wa miaka mitatu katika kilimo, Saïd (miaka 38) anaongeza uzalishaji wa matunda na mboga kwa mbegu bora, umwagiliaji ulioboreshwa na wafanyakazi wawili wa kudumu, akiimarisha usalama wa chakula."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 320)",
+      "photo": "assets/projects/tz-2025-vegetables-said-kileo.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm."
+    },
+    {
+      "id": "tz-2025-cocoa-joipha-kayange",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Cocoa: Joipha George Kayange (2nd loan)",
+        "fr": "Cacao : Joipha George Kayange (2e prêt)",
+        "sw": "Kakao: Joipha George Kayange (mkopo wa 2)"
+      },
+      "people": "Joipha George Kayange",
+      "summary": {
+        "en": "Joipha's first loan (2023) irrigated his 7-acre cocoa farm; he repaid it and bought a 25-acre plot. The second loan extends irrigation to this new plot for stable production through the dry season.",
+        "fr": "Le premier prêt de Joipha (2023) a permis d'irriguer sa plantation de cacao de 7 acres ; il l'a remboursé et a acquis une parcelle de 25 acres. Le second prêt étend l'irrigation à cette parcelle pour produire même en saison sèche.",
+        "sw": "Mkopo wa kwanza wa Joipha (2023) ulimwezesha kumwagilia shamba lake la kakao la ekari 7; aliurejesha na kununua shamba la ekari 25. Mkopo wa pili unapanua umwagiliaji kwenye shamba hili jipya ili kuzalisha hata wakati wa kiangazi."
+      },
+      "amount": "TZS 5,000,000 (≈ CHF 1,610)",
+      "photo": "assets/projects/tz-2025-cocoa-joipha-kayange.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. Report: 1st loan repaid, 2nd ongoing."
+    },
+    {
+      "id": "tz-2025-waste-diana-mbuba",
+      "country": "tz",
+      "place": "Kilombero district",
+      "year": 2025,
+      "category": "services",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Waste management: Diana Beston Mbuba",
+        "fr": "Gestion des déchets : Diana Beston Mbuba",
+        "sw": "Usimamizi wa taka: Diana Beston Mbuba"
+      },
+      "people": "Diana Beston Mbuba",
+      "summary": {
+        "en": "Diana is setting up a community waste collection, recycling and composting centre in the Kilombero district. Selling shredded plastic helps fund the initiative, which creates jobs and reduces pollution from open burning.",
+        "fr": "Diana met sur pied un centre communautaire de collecte, de recyclage et de compostage des déchets dans le district du Kilombero. Financé en partie par la vente de plastique broyé, il crée des emplois et réduit la pollution due au brûlage.",
+        "sw": "Diana anaanzisha kituo cha kijamii cha kukusanya, kurejeleza na kutengeneza mboji kutokana na taka katika wilaya ya Kilombero. Mauzo ya plastiki iliyosagwa yanasaidia kugharamia mradi, unaotoa ajira na kupunguza uchafuzi unaotokana na uchomaji wa taka."
+      },
+      "amount": "TZS 6,000,000 (≈ CHF 1,930)",
+      "photo": "assets/projects/tz-2025-waste-diana-mbuba.jpg",
+      "report": "2025",
+      "note": "Table p.9 lists this loan as 'Plastic recycling-Kidatu', so the exact place may be Kidatu (Kilombero district); confirm."
+    },
+    {
+      "id": "tz-2025-textile-elizabeth-funga",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "crafts",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Textile business: Elizabeth Funga Francis",
+        "fr": "Entreprise textile : Elizabeth Funga Francis",
+        "sw": "Biashara ya nguo: Elizabeth Funga Francis"
+      },
+      "people": "Elizabeth Funga Francis",
+      "summary": {
+        "en": "Weaver Elizabeth (49) makes blankets, bedding and tablecloths. The loan buys new materials, dyes and a yarn-twisting machine, and lets her offer more training to young people, especially women.",
+        "fr": "Tisserande, Elizabeth (49 ans) produit couvertures, literie et nappes. Le prêt finance de nouveaux matériaux, des teintures et une machine à tordre les fils, et lui permet d'offrir davantage de formations aux jeunes, en particulier aux femmes.",
+        "sw": "Mfumaji Elizabeth (miaka 49) hutengeneza blanketi, mashuka na vitambaa vya meza. Mkopo unanunua malighafi mpya, rangi na mashine ya kusokota nyuzi, na unamwezesha kutoa mafunzo zaidi kwa vijana, hasa wanawake."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 640)",
+      "photo": "assets/projects/tz-2025-textile-elizabeth-funga.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. She trained at the Ifakara Women Weavers Association, but her business location is not stated.",
+      "featured": true
+    },
+    {
+      "id": "tz-2025-honey-bravu",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "food",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Honey production: Bravu (2nd loan)",
+        "fr": "Production de miel : Bravu (2e prêt)",
+        "sw": "Uzalishaji wa asali: Bravu (mkopo wa 2)"
+      },
+      "people": "Bravu Pure Natural Honey group",
+      "summary": {
+        "en": "Five young beekeepers aged 25 to 35 aim to double their honey production to 160 litres a year by growing from 10 to 22 hives, buying modern equipment and obtaining TBS certification.",
+        "fr": "Cinq jeunes apiculteurs de 25 à 35 ans veulent doubler leur production de miel pour atteindre 160 litres par an, en passant de 10 à 22 ruches, en achetant du matériel moderne et en obtenant la certification TBS.",
+        "sw": "Vijana watano wafugaji nyuki wenye umri wa miaka 25 hadi 35 wanalenga kuongeza mara mbili uzalishaji wa asali hadi lita 160 kwa mwaka, kwa kuongeza mizinga kutoka 10 hadi 22, kununua vifaa vya kisasa na kupata cheti cha TBS."
+      },
+      "amount": "TZS 4,700,000 (≈ CHF 1,510)",
+      "photo": "assets/projects/tz-2025-honey-bravu.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. Report title says '(2nd loan)', but no earlier beekeeping loan appears in the 2020-2024 overview table (p.9) and the text does not mention a first loan; confirm second_loan. Table p.9 says 'Mixed group' of 5. Source photo is low-res (402x546).",
+      "featured": true
+    },
+    {
+      "id": "tz-2025-bikes-shaban-somba",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2025,
+      "category": "services",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Bicycle repair: Shaban Somba",
+        "fr": "Réparation de vélos : Shaban Somba",
+        "sw": "Ufundi wa baiskeli: Shaban Somba"
+      },
+      "people": "Shaban Somba",
+      "summary": {
+        "en": "With over 20 years of experience, Shaban (45) runs a bicycle repair workshop in Ifakara and trains four young assistants. The loan funds working capital, tools and spare parts.",
+        "fr": "Fort de plus de 20 ans d'expérience, Shaban (45 ans) tient un atelier de réparation de vélos à Ifakara, où il forme quatre jeunes assistants. Le prêt finance son fonds de roulement, des outils et des pièces détachées.",
+        "sw": "Akiwa na uzoefu wa zaidi ya miaka 20, Shaban (miaka 45) anaendesha karakana ya kutengeneza baiskeli Ifakara na kuwafundisha vijana wanne wasaidizi. Mkopo unagharamia mtaji wa kazi, zana na vipuri."
+      },
+      "amount": "TZS 3,500,000 (≈ CHF 1,120)",
+      "photo": "assets/projects/tz-2025-bikes-shaban-somba.jpg",
+      "report": "2025",
+      "note": ""
+    },
+    {
+      "id": "tz-2025-aquaculture-evance-mahundi",
+      "country": "tz",
+      "place": "",
+      "year": 2025,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Biofloc aquaculture: Evance Mahundi",
+        "fr": "Aquaculture biofloc : Evance Mahundi",
+        "sw": "Ufugaji wa samaki kwa biofloc: Evance Mahundi"
+      },
+      "people": "Evance Mahundi",
+      "summary": {
+        "en": "Evance is developing fish farming with biofloc technology, which gives higher yields and uses much less water. The project aims to meet local demand and train dozens of young people over two years.",
+        "fr": "Evance développe une pisciculture biofloc, plus productive et moins gourmande en eau que les méthodes traditionnelles. Le projet vise à répondre à la demande locale et à former des dizaines de jeunes en deux ans.",
+        "sw": "Evance anaendeleza ufugaji wa samaki kwa teknolojia ya biofloc, inayotoa mavuno zaidi na kutumia maji kidogo. Mradi unalenga kukidhi mahitaji ya soko la ndani na kuwafundisha makumi ya vijana ndani ya miaka miwili."
+      },
+      "amount": "TZS 6,000,000 (≈ CHF 1,930)",
+      "photo": "assets/projects/tz-2025-aquaculture-evance-mahundi.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. AMOUNT UNCERTAIN: project text (p.16) says TZS 6,000,000, but the overview table p.9 ('Bio floc fish farming project') and the 2025 accounting say TZS 7,000,000; the 2025 total of TZS 44,700,000 only adds up with 7,000,000 (≈ CHF 2,250). Confirm and update amount."
+    },
+    {
+      "id": "tz-2025-snacks-dads-food",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2025,
+      "category": "food",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Homemade snacks: Dad's Food",
+        "fr": "Snacks maison : Dad's Food",
+        "sw": "Vitafunwa vya nyumbani: Dad's Food"
+      },
+      "people": "Abdallah Kunema Mwamsonge",
+      "summary": {
+        "en": "Abdallah (50) makes homemade snacks in Ifakara, such as banana snacks, noodles and crackers. The loan buys machines and a hygienic processing space, offering a local alternative to imported snacks.",
+        "fr": "Abdallah (50 ans) produit des snacks maison à Ifakara (snacks de banane, nouilles, crackers). Le prêt finance des machines et un local de transformation hygiénique : une alternative locale aux snacks importés.",
+        "sw": "Abdallah (miaka 50) hutengeneza vitafunwa vya nyumbani Ifakara, kama vitafunwa vya ndizi, tambi na biskuti. Mkopo unanunua mashine na sehemu safi ya usindikaji, ukitoa mbadala wa ndani wa vitafunwa kutoka nje."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 640)",
+      "photo": "assets/projects/tz-2025-snacks-dads-food.jpg",
+      "report": "2025",
+      "note": "Report spells the name 'Abdullah' in the title and 'Abdallah' in the text; 'Abdallah' used. Brand appears as 'Dad's Food' (title) and 'Dady's Food' (text); confirm."
+    },
+    {
+      "id": "tz-2025-crochet-faraja",
+      "country": "tz",
+      "place": "Kapolo",
+      "year": 2025,
+      "category": "crafts",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Crochet and knitwear: Faraja group",
+        "fr": "Vêtements en crochet et tricot : groupe Faraja",
+        "sw": "Nguo za crochet na za kufuma: kikundi cha Faraja"
+      },
+      "people": "Faraja group",
+      "summary": {
+        "en": "Five women entrepreneurs in Kapolo, working as a cooperative, make crocheted and knitted clothing. The loan buys knitting machines and materials so they can supply school uniforms to several schools in the region.",
+        "fr": "Cinq entrepreneuses de Kapolo, organisées en coopérative, produisent des vêtements en crochet et tricot. Le prêt finance des machines à tricoter et du matériel pour fournir des uniformes scolaires à plusieurs écoles de la région.",
+        "sw": "Wanawake watano wajasiriamali wa Kapolo, wanaofanya kazi kama ushirika, hutengeneza nguo za crochet na za kufuma. Mkopo unanunua mashine za kufuma na vifaa ili waweze kusambaza sare kwa shule kadhaa za eneo hilo."
+      },
+      "amount": "TZS 3,500,000 (≈ CHF 1,120)",
+      "photo": "assets/projects/tz-2025-crochet-faraja.jpg",
+      "report": "2025",
+      "note": ""
+    },
+    {
+      "id": "td-2025-media-elohim-production",
+      "country": "td",
+      "place": "",
+      "year": 2025,
+      "category": "culture",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Audiovisual production: Elohim Production",
+        "fr": "Production audiovisuelle : Elohim Production",
+        "sw": "Uzalishaji wa video: Elohim Production"
+      },
+      "people": "Pierre Agnang & team",
+      "summary": {
+        "en": "A team of six unemployed graduates runs an audiovisual and events production company promoting Chadian culture, regional talent and youth employment. The loan funds modern equipment and training for the team.",
+        "fr": "Une équipe de six diplômés sans emploi a créé une société de production audiovisuelle et événementielle qui valorise la culture tchadienne, les talents de la région et l'emploi des jeunes. Le prêt finance du matériel moderne et des formations.",
+        "sw": "Timu ya wahitimu sita wasio na ajira inaendesha kampuni ya kutengeneza video na kuandaa matukio, inayokuza utamaduni wa Chad, vipaji vya eneo hilo na ajira kwa vijana. Mkopo unagharamia vifaa vya kisasa na mafunzo."
+      },
+      "amount": "XAF 1,000,000 (≈ CHF 1,420)",
+      "photo": "assets/projects/td-2025-media-elohim-production.jpg",
+      "report": "2025",
+      "note": "Place not stated in the 2025 report; please confirm. (most Chad project holders are based in Pala). Loan disbursed in two instalments (pilot phase; first instalment paid end of 2025, via UCEC-MK). CHF computed at report rate 705 XAF/CHF. Instalments: 800,000 + 200,000."
+    },
+    {
+      "id": "td-2025-charging-jean-baptiste-lowassi",
+      "country": "td",
+      "place": "Yarelim, Pala",
+      "year": 2025,
+      "category": "services",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Solar phone charging booth: Jean-Baptiste Lowassi",
+        "fr": "Cabine de recharge solaire : Jean-Baptiste Lowassi",
+        "sw": "Kibanda cha kuchaji simu kwa sola: Jean-Baptiste Lowassi"
+      },
+      "people": "Jean-Baptiste Lowassi",
+      "summary": {
+        "en": "In Yarelim, a neighbourhood of Pala, Jean-Baptiste set up a solar-powered booth with a battery and 30 charging sockets, so residents without access to electricity can charge their phones.",
+        "fr": "À Yarelim, quartier de Pala, Jean-Baptiste a installé une cabine solaire équipée d'une batterie et de 30 prises, pour que les habitant·e·s sans accès à l'électricité puissent recharger leurs téléphones.",
+        "sw": "Katika mtaa wa Yarelim, Pala, Jean-Baptiste ameweka kibanda cha kuchaji simu kinachotumia nishati ya jua, chenye betri na soketi 30, ili wakazi wasio na umeme waweze kuchaji simu zao."
+      },
+      "amount": "XAF 600,000 (≈ CHF 850)",
+      "photo": "assets/projects/td-2025-charging-jean-baptiste-lowassi.jpg",
+      "report": "2025",
+      "note": "Initiated in 2024, financed and built in 2025. Loan disbursed in two instalments (pilot phase; first instalment paid end of 2025, via UCEC-MK). CHF computed at report rate 705 XAF/CHF. Instalments: 400,000 + 200,000. Source photo is low-res (468x635)."
+    },
+    {
+      "id": "td-2025-restaurant-innocente-batmbaissou",
+      "country": "td",
+      "place": "Pala",
+      "year": 2025,
+      "category": "food",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Local food and restaurant: Innocente Batmbaissou",
+        "fr": "Produits locaux et restaurant : Innocente Batmbaissou",
+        "sw": "Vyakula vya kienyeji na mgahawa: Innocente Batmbaissou"
+      },
+      "people": "Innocente Batmbaissou",
+      "summary": {
+        "en": "Innocente runs a small restaurant in Pala serving dishes and snacks made from locally processed products (peanuts, sweet potatoes, cassava, maize, natural juices). The loan funded equipment and staff training.",
+        "fr": "Innocente tient un petit restaurant à Pala qui propose plats et snacks issus de produits locaux transformés (arachides, patate douce, manioc, maïs, jus naturels). Le prêt a financé l'équipement et la formation du personnel.",
+        "sw": "Innocente anaendesha mgahawa mdogo Pala unaouza vyakula na vitafunwa vilivyotengenezwa kwa mazao ya ndani (karanga, viazi vitamu, muhogo, mahindi, juisi asilia). Mkopo ulinunua vifaa na kuwapa wafanyakazi mafunzo."
+      },
+      "amount": "XAF 350,000 (≈ CHF 500)",
+      "photo": "assets/projects/td-2025-restaurant-innocente-batmbaissou.jpg",
+      "report": "2025",
+      "note": "Report title misspells 'Innoncente'; 'Innocente' used. Loan disbursed in two instalments (pilot phase; first instalment paid end of 2025, via UCEC-MK). CHF computed at report rate 705 XAF/CHF. Instalments: 200,000 + 150,000. Photo is the restaurant menu ('Restaurant Main Sûre'); a photo of Innocente or the restaurant would be better."
+    },
+    {
+      "id": "td-2025-pharmacy-pauline-pari-djimba",
+      "country": "td",
+      "place": "Tao Zagrang, Pala",
+      "year": 2025,
+      "category": "health",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Local pharmacy: Pauline Pari Djimba",
+        "fr": "Pharmacie de proximité : Pauline Pari Djimba",
+        "sw": "Duka la dawa la mtaani: Pauline Pari Djimba"
+      },
+      "people": "Pauline Pari Djimba",
+      "summary": {
+        "en": "A state-registered nurse, Pauline is setting up a small pharmacy in Tao Zagrang, a remote area of Pala, bringing quality medicines and healthcare products closer to the community.",
+        "fr": "Infirmière diplômée d'État, Pauline crée une mini-pharmacie de proximité dans le quartier Tao Zagrang, zone éloignée de Pala, pour donner à la population un accès proche à des médicaments et produits de soins de qualité.",
+        "sw": "Akiwa muuguzi aliyesajiliwa, Pauline anaanzisha duka dogo la dawa katika mtaa wa Tao Zagrang, eneo la mbali la Pala, ili kuipatia jamii dawa na bidhaa bora za afya karibu na makazi yao."
+      },
+      "amount": "XAF 1,000,000 (≈ CHF 1,420)",
+      "photo": "assets/projects/td-2025-pharmacy-pauline-pari-djimba.jpg",
+      "report": "2025",
+      "note": "Loan disbursed in two instalments (pilot phase; first instalment paid end of 2025, via UCEC-MK). CHF computed at report rate 705 XAF/CHF. Instalments: 800,000 + 200,000. Source photo is low-res (370x514)."
+    },
+    {
+      "id": "td-2025-poultry-moise-reddoukou",
+      "country": "td",
+      "place": "Lamé",
+      "year": 2025,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Poultry farming: Moïse Reddoukou",
+        "fr": "Élevage avicole : Moïse Reddoukou",
+        "sw": "Ufugaji wa kuku: Moïse Reddoukou"
+      },
+      "people": "Moïse Reddoukou",
+      "summary": {
+        "en": "An environmental engineer turned poultry farmer in Lamé, Moïse is buying an automatic egg incubator to increase production, meet growing demand and provide income for young employees.",
+        "fr": "Ingénieur environnemental devenu éleveur à Lamé, Moïse achète une couveuse automatique afin d'augmenter sa production, de répondre à la demande grandissante et d'offrir un revenu à de jeunes employé·es.",
+        "sw": "Mhandisi wa mazingira aliyegeuka kuwa mfugaji wa kuku huko Lamé, Moïse ananunua mashine ya kutotolesha mayai ili kuongeza uzalishaji, kukidhi mahitaji yanayoongezeka na kuwapatia vijana kipato."
+      },
+      "amount": "XAF 320,000 (≈ CHF 450)",
+      "photo": "assets/projects/td-2025-poultry-moise-reddoukou.jpg",
+      "report": "2025",
+      "note": "Report does not mention instalments for this loan. CHF computed at report rate 705 XAF/CHF. Source photo is low-res (486x710)."
+    },
+    {
+      "id": "tz-2024-plastic-waste-msalike",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2024,
+      "category": "services",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Plastic waste recovery: Rosalia Msalike",
+        "fr": "Valorisation des déchets plastiques : Rosalia Msalike",
+        "sw": "Urejelezaji wa taka za plastiki: Rosalia Msalike"
+      },
+      "people": "Rosalia Msalike",
+      "summary": {
+        "en": "Ifakara has no public household waste collection. Rosalia Msalike used her loan to buy a machine that shreds hard plastic into small pieces, which she takes to recycling plants near Dar es Salaam that pay her per bag. She repaid quickly.",
+        "fr": "La ville d'Ifakara ne dispose pas de collecte publique des déchets ménagers. Rosalia Msalike a acheté une machine pour broyer les plastiques durs, acheminés vers des usines de recyclage près de Dar-Es-Salaam qui la rémunèrent au sac. Elle a rapidement remboursé ce prêt.",
+        "sw": "Ifakara haina mfumo wa umma wa kukusanya taka za nyumbani. Rosalia Msalike alinunua mashine ya kusaga plastiki ngumu, kisha huzipeleka kwenye viwanda vya kurejeleza karibu na Dar es Salaam vinavyomlipa kwa kila mfuko. Alirejesha mkopo huu haraka."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 350)",
+      "photo": "assets/projects/tz-2024-plastic-waste-msalike.jpg",
+      "report": "2024",
+      "note": "Granted Feb 2024, repaid Jun 2024 (2025 loan overview, green). Name spelled Rozalia/Rosalia in the 2024 report; 'Rosalia' used. Same photo as the 2nd loan (no separate photo exists)."
+    },
+    {
+      "id": "tz-2024-plastic-waste-msalike-2",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2024,
+      "category": "services",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Plastic waste recovery: Rosalia Msalike (2nd loan)",
+        "fr": "Valorisation des déchets plastiques : Rosalia Msalike (2e prêt)",
+        "sw": "Urejelezaji wa taka za plastiki: Rosalia Msalike (mkopo wa 2)"
+      },
+      "people": "Rosalia Msalike",
+      "summary": {
+        "en": "After quickly repaying her first loan, Rosalia Msalike received a second one to raise her capacity from 1 to 3 tonnes of plastic: a second shredder, a job for an employee, a community collection system and simple transport to Dar es Salaam.",
+        "fr": "Ayant rapidement remboursé son premier prêt, Rosalia Msalike a obtenu un second prêt pour passer de 1 à 3 tonnes de plastique : seconde broyeuse, poste de travail, système de collecte communautaire et filière de transport vers la capitale.",
+        "sw": "Baada ya kurejesha haraka mkopo wake wa kwanza, Rosalia Msalike alipata mkopo wa pili ili kuongeza uwezo kutoka tani 1 hadi 3 za plastiki: mashine ya pili ya kusaga, ajira kwa mfanyakazi mmoja, mfumo wa kukusanya taka katika jamii na usafirishaji hadi Dar es Salaam."
+      },
+      "amount": "TZS 5,000,000 (≈ CHF 1,750)",
+      "photo": "assets/projects/tz-2024-plastic-waste-msalike-2.jpg",
+      "report": "2024",
+      "note": "Granted Jul 2024. Ongoing: 27% repaid at end of 2025 (2025 loan overview, grey). Same photo as the 1st loan."
+    },
+    {
+      "id": "tz-2024-palm-oil-said-dibwani",
+      "country": "tz",
+      "place": "",
+      "year": 2024,
+      "category": "food",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Local palm oil production: Said Dibwani",
+        "fr": "Production locale d'huile de palme : Said Dibwani",
+        "sw": "Uzalishaji wa mafuta ya mawese: Said Dibwani"
+      },
+      "people": "Said Dibwani",
+      "summary": {
+        "en": "Many palm trees grow naturally in Tanzania, yet imported palm oil mostly comes from intensive farming. Said Dibwani already owned a processing machine but lacked capital to buy fruit from small farmers. The loan lets him run production cycles and raises growers' incomes.",
+        "fr": "De nombreux palmiers poussent naturellement en Tanzanie, alors que l'huile de palme importée provient surtout d'agriculture intensive. Said Dibwani disposait d'une machine, mais manquait de capital pour acheter les fruits aux petit·e·s agriculteur·trice·s. Le prêt lui permet de lancer des cycles de production.",
+        "sw": "Michikichi mingi hustawi kiasili Tanzania, lakini mafuta ya mawese yanayoagizwa nje hutoka kwenye kilimo kikubwa. Said Dibwani alikuwa na mashine ya kukamua lakini hakuwa na mtaji wa kununua matunda kwa wakulima wadogo. Mkopo unamwezesha kuzalisha na kuongeza kipato cha wakulima."
+      },
+      "amount": "TZS 500,000 (≈ CHF 175)",
+      "photo": "assets/projects/tz-2024-palm-oil-said-dibwani.jpg",
+      "report": "2024",
+      "note": "Granted May 2024, repaid May 2025 (2025 loan overview: 'Palm Oil (other project - 1)', green). Place not stated in the reports. He got a 2nd loan in 2025 (covered by the 2025 data). Old-site photo has an 'IN PROGRESS' stamp, so the clean version was taken from the 2024 report (small: 422x540)."
+    },
+    {
+      "id": "tz-2024-poultry-amani-b-sole",
+      "country": "tz",
+      "place": "",
+      "year": 2024,
+      "category": "agriculture",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Poultry farm: Amani 'B' Sole group",
+        "fr": "Ferme avicole : groupe Amani 'B' Sole",
+        "sw": "Ufugaji wa kuku: kikundi cha Amani 'B' Sole"
+      },
+      "people": "Amani 'B' Sole group",
+      "summary": {
+        "en": "The Amani 'B' Sole group improves its members' living conditions through income-generating and social activities. Its loan renovated the poultry building, added feeders and bought supplies and chicks to start a chicken farm, producing a widely eaten food locally.",
+        "fr": "Le groupe Amani 'B' Sole veut améliorer les conditions de vie de ses membres par des activités génératrices de revenus. Le prêt a permis de rénover le bâtiment d'élevage, d'installer des mangeoires et d'acheter fournitures et poussins pour lancer une ferme avicole.",
+        "sw": "Kikundi cha Amani 'B' Sole kinalenga kuboresha maisha ya wanachama wake kupitia shughuli za kujiingizia kipato. Mkopo ulitumika kukarabati banda, kuweka vyombo vya chakula na kununua vifaa na vifaranga ili kuanzisha ufugaji wa kuku."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2024-poultry-amani-b-sole.jpg",
+      "report": "2024",
+      "note": "Granted May 2024, repaid May 2025 (2025 loan overview, green; 16 members). Place not stated in the reports. The group got a 2nd loan in 2025 (2025 data). Photo from the 2024 report (larger than the old-site version)."
+    },
+    {
+      "id": "tz-2024-cleaning-products-maria-myoga-2",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2024,
+      "category": "health",
+      "status": "completed",
+      "second_loan": true,
+      "title": {
+        "en": "Cleaning products: Maria Myoga (2nd loan)",
+        "fr": "Solutions de nettoyage : Maria Myoga (2e prêt)",
+        "sw": "Sabuni za usafi: Maria Myoga (mkopo wa 2)"
+      },
+      "people": "Maria Myoga",
+      "summary": {
+        "en": "Thanks to her first loan, Maria Myoga supplies cleaning products and hand soap to health centres, and won contracts with three more, including St Francis Referral Hospital. Her second loan boosts production, adds recognisable labels and funds bicycle deliveries.",
+        "fr": "Grâce à son premier prêt, Maria Myoga approvisionne des centres de santé et a décroché des contrats avec trois autres établissements, dont le St-Francis Referral Hospital. Le second prêt augmente sa production, modernise ses emballages et finance des livraisons à vélo.",
+        "sw": "Kutokana na mkopo wake wa kwanza, Maria Myoga anasambaza bidhaa za usafi kwa vituo vya afya, na amepata mikataba na vituo vitatu zaidi, ikiwemo Hospitali ya Rufaa ya St. Francis. Mkopo wa pili unaongeza uzalishaji, vifungashio vyenye nembo na usafirishaji kwa baiskeli."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2024-cleaning-products-maria-myoga-2.jpg",
+      "report": "2024",
+      "note": "Granted Aug 2024, fully repaid Dec 2025 (2025 loan overview: 'Soap making project (2)', green). The 2024 accounts print this TZS 2,000,000 under 'Project failures', which looks like a table layout error. Place 'Ifakara' comes from the old site only. Old-site photo has an 'IN PROGRESS' stamp; clean version taken from the 2024 report."
+    },
+    {
+      "id": "tz-2024-soap-batik-juhudi-vicoba-2",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2024,
+      "category": "crafts",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Soap and batik: Juhudi Vicoba group (2nd loan)",
+        "fr": "Savons et batiks : groupe Juhudi Vicoba (2e prêt)",
+        "sw": "Sabuni na batiki: kikundi cha Juhudi Vicoba (mkopo wa 2)"
+      },
+      "people": "Juhudi Vicoba group",
+      "summary": {
+        "en": "After the success of their first project and strong customer demand, the Juhudi Vicoba group received a second loan for new supplies. It raises members' incomes and preserves batik, the traditionally patterned fabric that embodies the region's cultural heritage.",
+        "fr": "Face à l'engouement de leur clientèle, le groupement Juhudi Vicoba a obtenu un second prêt pour de nouvelles fournitures. Il augmente les revenus des membres et préserve le batik, tissu à motifs traditionnels qui incarne l'héritage culturel de la région.",
+        "sw": "Baada ya mafanikio ya mradi wa kwanza na hamasa kubwa ya wateja, kikundi cha Juhudi Vicoba kilipata mkopo wa pili kununua malighafi zaidi. Unaongeza kipato cha wanachama na kuendeleza batiki, vitambaa vya michoro ya jadi vinavyobeba urithi wa kitamaduni wa eneo hili."
+      },
+      "amount": "TZS 4,000,000 (≈ CHF 1,400)",
+      "photo": "assets/projects/tz-2024-soap-batik-juhudi-vicoba-2.jpg",
+      "report": "2024",
+      "note": "Granted Jul 2024. Ongoing: 87% repaid at end of 2025 (2025 loan overview, grey). Category 'crafts' chosen for soap + batik (could also be 'health')."
+    },
+    {
+      "id": "td-2024-solar-irrigation-goumango",
+      "country": "td",
+      "place": "Goumango",
+      "year": 2024,
+      "category": "agriculture",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Solar-powered irrigation: Souksaimi group",
+        "fr": "Irrigation par pompes solaires : groupe Souksaimi",
+        "sw": "Umwagiliaji kwa nishati ya jua: kikundi cha Souksaimi"
+      },
+      "people": "Souksaimi group (8 families)",
+      "summary": {
+        "en": "In the village of Goumango, a group of eight families received a loan for an irrigation system with solar pumps for vegetables and cereals. The aim is local organic production even under water stress, better food security, more income and fewer imports.",
+        "fr": "À Goumango, un groupement de huit familles a obtenu un prêt pour un système d'irrigation par pompes solaires destiné aux cultures maraîchères et céréalières, afin de permettre une production agricole locale biologique même en situation de stress hydrique et d'améliorer la sécurité alimentaire.",
+        "sw": "Katika kijiji cha Goumango, kikundi cha familia nane kilipata mkopo wa mfumo wa umwagiliaji kwa pampu za nishati ya jua kwa mboga na nafaka. Lengo ni kuzalisha chakula cha asili hata wakati wa uhaba wa maji, kuboresha usalama wa chakula na kuongeza kipato."
+      },
+      "amount": "FCFA 3,400,000 (≈ CHF 4,900)",
+      "photo": "assets/projects/td-2024-solar-irrigation-goumango.jpg",
+      "report": "2024",
+      "note": "Pilot project of KAZI Fedjin Tchad. Funds sent in 2023 (2023 report), project started in 2024 (2024 report), so year 2024. Amount: 2023 report FCFA 2.8M (≈CHF 4,100), 2024 report 3.4M (≈CHF 4,900); the latter used. Group name 'Souksaimi' and village are from the 2025 report. Status: the 2025 report says the borehole did not reach water, so the solar irrigation could not be installed; KAZI Fedjin does not ask repayment for the borehole, rainy-season vegetable production went well, and a contract amendment was signed; it lists the project as ongoing in 2025. Chad is not in the Tanzania loan overview. Should the summary mention the borehole problem? The second Chad pilot (3 solar charging stations, Dari, FCFA 1.9M) had not launched by end 2024 and is left out."
+    },
+    {
+      "id": "tz-2023-baskets-upendo-women-group",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2023,
+      "category": "crafts",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Basket weaving: Upendo Women Group",
+        "fr": "Production de paniers : Upendo Women Group",
+        "sw": "Ususi wa vikapu: Upendo Women Group"
+      },
+      "people": "Upendo Women Group",
+      "summary": {
+        "en": "Upendo Women Group is a women's cooperative from the Ifakara region that weaves baskets, mats and hats in the traditional way. The loan helped them expand production and reach new markets. It was repaid on time, and members now earn regular income.",
+        "fr": "« Upendo Women Group » est une coopérative de femmes de la région d'Ifakara produisant paniers, nattes et chapeaux de façon traditionnelle. Le prêt leur a permis d'élargir leur production et d'accéder à de nouveaux marchés. Remboursé dans les temps, il assure des revenus réguliers.",
+        "sw": "Upendo Women Group ni ushirika wa wanawake wa eneo la Ifakara wanaosuka vikapu, mikeka na kofia kwa njia ya jadi. Mkopo uliwasaidia kuongeza uzalishaji na kufikia masoko mapya. Waliurejesha kwa wakati, na wanachama sasa wanapata kipato cha kudumu."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2023-baskets-upendo-women-group.jpg",
+      "report": "2023",
+      "note": "MERGED DUPLICATE: the old site had this loan twice ('Weavers project' 2023 and 'Upendo Women Group' bags in the 2019-2022 section, which described the loan request). The 2022 report says the bag cooperative loan was granted at the very start of 2023; overview: Jan 2023, repaid Apr 2024 (10 women). The old weavers-page photo (women cooking at a large pot) looks like soap making and was not used."
+    },
+    {
+      "id": "tz-2023-soap-batik-juhudi-vicoba",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2023,
+      "category": "crafts",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Soap and batik: Juhudi Vicoba group",
+        "fr": "Savons et batiks : groupe Juhudi Vicoba",
+        "sw": "Sabuni na batiki: kikundi cha Juhudi Vicoba"
+      },
+      "people": "Juhudi Vicoba group",
+      "summary": {
+        "en": "The Juhudi Vicoba cooperative brings together women in Ifakara who make and dye batik, colourful traditionally patterned fabrics, and produce soap. The loan funded equipment and labour to improve quantity and quality. It was fully repaid and followed by a second loan.",
+        "fr": "La coopérative « Juhudi Vicoba », à Ifakara, réunit des femmes qui fabriquent et teignent des batiks et produisent du savon. Le prêt a financé équipement et main-d'œuvre pour augmenter quantité et qualité. Remboursé, il a été suivi d'un second prêt.",
+        "sw": "Ushirika wa Juhudi Vicoba wa Ifakara unawaleta pamoja wanawake wanaotengeneza na kutia rangi batiki, na kutengeneza sabuni. Mkopo ulifadhili vifaa na nguvu kazi ili kuongeza wingi na ubora wa bidhaa. Waliurejesha wote na kisha kupata mkopo wa pili."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2023-soap-batik-juhudi-vicoba.jpg",
+      "report": "2023",
+      "note": "Granted Aug 2023, repaid May 2024 (2025 loan overview, green; 14 members). The old site had only a listing card for this loan."
+    },
+    {
+      "id": "tz-2023-cleaning-products-maria-myoga",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2023,
+      "category": "health",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Cleaning products: Maria Myoga",
+        "fr": "Solutions de nettoyage : Maria Myoga",
+        "sw": "Sabuni za usafi: Maria Myoga"
+      },
+      "people": "Maria Myoga",
+      "summary": {
+        "en": "Maria Myoga makes cleaning products for dishes, tiles and sinks, as well as hand soap. Her production could not meet growing demand, so the loan bought equipment to double it. She repaid on time, then received a second loan to expand.",
+        "fr": "Maria Myoga produit des solutions de nettoyage pour la vaisselle, le carrelage et les éviers, ainsi que du savon pour les mains. Le prêt lui a permis d'acquérir le matériel pour doubler sa production. Remboursé dans les temps, il a été suivi d'un second prêt.",
+        "sw": "Maria Myoga hutengeneza sabuni za kusafishia vyombo, vigae na sinki, pamoja na sabuni ya mikono. Uzalishaji wake haukutosheleza mahitaji, hivyo mkopo ulinunua vifaa vya kuuongeza mara mbili. Aliurejesha kwa wakati, kisha akapata mkopo wa pili."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 350)",
+      "photo": "assets/projects/tz-2023-cleaning-products-maria-myoga.jpg",
+      "report": "2023",
+      "note": "Granted Dec 2023, repaid Jul 2024 (2025 loan overview, green). Not on the old website. Place 'Ifakara' comes from the old site's 2nd-loan page only. Photo: small collage (432x432) from the 2024 report."
+    },
+    {
+      "id": "tz-2023-cocoa-joipha-kayange",
+      "country": "tz",
+      "place": "Mofu, Ifakara",
+      "year": 2023,
+      "category": "agriculture",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Cocoa farm: Joipha Kayange",
+        "fr": "Exploitation de cacao : Joipha Kayange",
+        "sw": "Shamba la kakao: Joipha Kayange"
+      },
+      "people": "Joipha George Kayange",
+      "summary": {
+        "en": "With over 13 years' experience growing bananas and cocoa, Joipha George Kayange installed irrigation on his cocoa farm to face climate challenges. Supporting smallholders keeps farming in local hands. He repaid on time, and his farm is now very productive.",
+        "fr": "Fort de plus de 13 ans d'expérience dans la culture de bananes et de cacao, Joipha George Kayange a installé un système d'irrigation pour faire face aux défis climatiques. Il a remboursé son prêt dans les temps, avec une exploitation agricole aujourd'hui très efficace.",
+        "sw": "Akiwa na uzoefu wa zaidi ya miaka 13 katika kilimo cha ndizi na kakao, Joipha George Kayange aliweka mfumo wa umwagiliaji shambani ili kukabiliana na changamoto za tabianchi. Alirejesha mkopo kwa wakati, na shamba lake sasa lina tija kubwa."
+      },
+      "amount": "TZS 3,000,000 (≈ CHF 1,050)",
+      "photo": "assets/projects/tz-2023-cocoa-joipha-kayange.jpg",
+      "report": "2023",
+      "note": "Granted Aug 2023, repaid Nov 2024 (2025 loan overview, green). Reports give ≈CHF 1,050 (old site said CHF 1,300). Place 'Mofu' comes from the old site only. A 2nd loan followed in 2025 (2025 data)."
+    },
+    {
+      "id": "tz-2023-computer-courses-japhet-ngewe",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2023,
+      "category": "tech",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Computer courses: Japhet Ngewe",
+        "fr": "Cours d'informatique : Japhet Ngewe",
+        "sw": "Mafunzo ya kompyuta: Japhet Ngewe"
+      },
+      "people": "Japhet Ngewe",
+      "summary": {
+        "en": "Japhet Ngewe wants to build computer skills among young people in Ifakara. His loan bought two second-hand computers for after-school courses, which he also rents out when no class is running. The project works very well and was repaid on schedule.",
+        "fr": "Japhet Ngewe souhaitait renforcer les compétences informatiques de la jeune génération à Ifakara. Son prêt a financé deux ordinateurs de seconde main pour des cours extrascolaires, loués aussi en dehors des cours. Le projet fonctionne très bien, avec un remboursement dans les temps.",
+        "sw": "Japhet Ngewe analenga kuimarisha ujuzi wa kompyuta kwa vijana wa Ifakara. Mkopo wake ulinunua kompyuta mbili zilizotumika kwa ajili ya masomo baada ya shule, na huzikodisha wakati hakuna darasa. Mradi unafanya vizuri sana na mkopo ulirejeshwa kwa wakati."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 350)",
+      "photo": "assets/projects/tz-2023-computer-courses-japhet-ngewe.jpg",
+      "report": "2023",
+      "note": "Granted Sep 2023, repaid May 2025 (2025 loan overview, green; the 2024 report expected the end of repayment in early 2025, on schedule). The old site described computer training for children in his daycare plus entrepreneurship classes; the report wording was used."
+    },
+    {
+      "id": "tz-2023-carpentry-issa-mpambalioto",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2023,
+      "category": "crafts",
+      "status": "ongoing",
+      "second_loan": false,
+      "title": {
+        "en": "Carpentry workshop: Issa Mpambalioto",
+        "fr": "Menuiserie et charpenterie : Issa Mpambalioto",
+        "sw": "Karakana ya useremala: Issa Mpambalioto"
+      },
+      "people": "Issa Khassim Mpambalioto",
+      "summary": {
+        "en": "Issa Khassim Mpambalioto, an experienced carpenter in Ifakara, bought his own wood-cutting machine instead of renting one by the day. His workshop is busy, with many customers and several employees. After several moves disrupted his work, he was given more time to repay.",
+        "fr": "Issa Khassim Mpambalioto, menuisier-charpentier expérimenté d'Ifakara, a acquis sa propre machine de découpe de bois au lieu de la louer à la journée. Son commerce est actif, avec de nombreux client·e·s et employé·e·s. Plusieurs déménagements ayant entravé ses activités, un délai lui a été octroyé.",
+        "sw": "Issa Khassim Mpambalioto, fundi seremala mzoefu wa Ifakara, alinunua mashine yake ya kukata mbao badala ya kuikodi kila siku. Karakana yake ina wateja wengi na wafanyakazi kadhaa. Baada ya kuhama mara kadhaa, alipewa muda zaidi wa kurejesha mkopo."
+      },
+      "amount": "TZS 3,000,000 (≈ CHF 1,050)",
+      "photo": "assets/projects/tz-2023-carpentry-issa-mpambalioto.jpg",
+      "report": "2023",
+      "note": "AMOUNT CONFLICT, please confirm: the 2023 and 2024 report texts say TZS 2,000,000 (≈CHF 700), but the 2025 loan overview says 3,000,000 and the 2024 accounts show 2,550,000 still outstanding on 1.1.2024, which only fits a 3M loan. 3,000,000 used; the CHF figure is estimated at the rate the 2023 report uses for other TZS 3M loans. Granted Feb 2023. Ongoing with a delay of more than 6 months: 48% repaid at end of 2025 (grey); the 2024 report planned repayment by Nov 2025."
+    },
+    {
+      "id": "tz-2023-bakery-rehema-magoko-2",
+      "country": "tz",
+      "place": "Maendeleo, Ifakara",
+      "year": 2023,
+      "category": "food",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Local bakery: Rehema Magoko (2nd loan)",
+        "fr": "Boulangerie locale : Rehema Magoko (2e prêt)",
+        "sw": "Mkate wa kienyeji: Rehema Magoko (mkopo wa 2)"
+      },
+      "people": "Rehema Magoko",
+      "summary": {
+        "en": "After repaying her first loan well ahead of time, Rehema Magoko received a second loan to officially register her bakery, hire apprentices and staff, and sell in other shops. Registration took the authorities a year, so her repayment deadline was extended.",
+        "fr": "Après avoir remboursé son premier prêt largement en avance, Rehema Magoko a obtenu un second prêt pour enregistrer officiellement son entreprise, engager apprenti·e·s et employé·e·s et vendre dans d'autres commerces. L'enregistrement ayant pris un an, un délai de remboursement lui a été octroyé.",
+        "sw": "Baada ya kurejesha mkopo wake wa kwanza mapema, Rehema Magoko alipata mkopo wa pili ili kusajili rasmi biashara yake ya mikate, kuajiri wanagenzi na wafanyakazi, na kuuza katika maduka mengine. Usajili ulichukua mwaka mmoja, hivyo muda wa kurejesha uliongezwa."
+      },
+      "amount": "TZS 4,000,000 (≈ CHF 1,400)",
+      "photo": "assets/projects/tz-2023-bakery-rehema-magoko-2.jpg",
+      "report": "2023",
+      "note": "Granted Nov 2023. Ongoing with a delay of more than 6 months: 48% repaid at end of 2025 (2025 loan overview, grey); the 2024 report extended the deadline to Oct 2025. Name spelled Magoko and Magoka in the reports; 'Magoko' used. Not on the old site as its own page; the photo collage from the old bakery page matches the 2023/2024 report photos for this 2nd loan."
+    },
+    {
+      "id": "tz-2023-chili-james-makali",
+      "country": "tz",
+      "place": "Mbasa Kwa Mangungu, Ifakara",
+      "year": 2023,
+      "category": "agriculture",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Chili production: James Makali",
+        "fr": "Production de piments : James Makali",
+        "sw": "Kilimo cha pilipili: James Makali"
+      },
+      "people": "James John Makali",
+      "summary": {
+        "en": "James John Makali used his loan to start chili production in Mbasa Kwa Mangungu, Ifakara: seeds, an irrigation system and drying equipment. In 2024, severe floods destroyed his field, harvest and irrigation. As this was beyond his control, KAZI waived the remaining debt.",
+        "fr": "James John Makali a lancé une production de piments à Mbasa Kwa Mangungu (Ifakara) : semences, irrigation et matériel de séchage. En 2024, d'importantes inondations ont détruit son champ, sa récolte et son irrigation. KAZI a renoncé à exiger le remboursement.",
+        "sw": "James John Makali alianzisha kilimo cha pilipili huko Mbasa Kwa Mangungu, Ifakara: mbegu, mfumo wa umwagiliaji na vifaa vya kukaushia. Mwaka 2024 mafuriko makubwa yaliharibu shamba, mavuno na mfumo wa umwagiliaji. Kwa kuwa hilo lilikuwa nje ya uwezo wake, KAZI iliamua kutodai deni lililobaki."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2023-chili-james-makali.jpg",
+      "report": "2023",
+      "note": "MERGED DUPLICATE: the old site's 'Pilipili project' (2023) and 'African bird's eye chili' (2019-2022 section, the loan request for a pump and pipes) are the same loan. The 2022 report says the chili project was developed in 2022 and the loan granted early 2023; overview: Jan 2023. Failure caused by floods: 14% repaid, TZS 1,720,000 written off in the 2024 accounts (overview: red). Shown as 'completed' only because the schema has no 'failed' status. The 2023/2024 reports give '≈CHF 1,050' for TZS 2,000,000, apparently a typo; ≈CHF 700 used as for the other 2M loans."
+    },
+    {
+      "id": "tz-2023-barbershop-lucian-sanga",
+      "country": "tz",
+      "place": "",
+      "year": 2023,
+      "category": "services",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Barbershop: Lucian Sanga",
+        "fr": "Barbershop : Lucian Sanga",
+        "sw": "Saluni ya kunyoa: Lucian Sanga"
+      },
+      "people": "Lucian Ezekieli Sanga",
+      "summary": {
+        "en": "After more than nine years working for others, Lucian Ezekieli Sanga used his loan to open his own barbershop and hair salon, buying a sterilisation machine, a solar panel and battery for power cuts, chairs and other equipment.",
+        "fr": "Après plus de 9 ans d'expérience comme employé, Lucian Ezekieli Sanga a lancé son propre salon de barbier et coiffure. Le prêt a financé une machine de stérilisation, un panneau et une batterie solaires en cas de coupures, des chaises et du matériel.",
+        "sw": "Baada ya zaidi ya miaka tisa akiwafanyia kazi wengine, Lucian Ezekieli Sanga alifungua saluni yake ya kunyoa na kutengeneza nywele. Mkopo ulinunua mashine ya kusafisha vifaa, paneli ya jua na betri kwa wakati umeme unapokatika, viti na vifaa vingine."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2023-barbershop-lucian-sanga.jpg",
+      "report": "2023",
+      "note": "STATUS CONFLICT, please confirm: the 2024 report says the salon is busy with many customers and repayment was extended to summer 2025; the 2025 loan overview marks it red (failure, 68% repaid). Set to 'completed' per the overview. Shown as 'completed' only because the schema has no 'failed' status. Summary kept neutral; should the outcome be mentioned? Granted May 2023. Place not stated in the reports."
+    },
+    {
+      "id": "tz-2022-tailoring-salma-msomi-2",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2022,
+      "category": "crafts",
+      "status": "ongoing",
+      "second_loan": true,
+      "title": {
+        "en": "Tailoring workshop: Salma Msomi (2nd loan)",
+        "fr": "Atelier de couture : Salma Msomi (2e prêt)",
+        "sw": "Karakana ya ushonaji: Salma Msomi (mkopo wa 2)"
+      },
+      "people": "Salma Msomi",
+      "summary": {
+        "en": "Having repaid her first loan on time, seamstress Salma Msomi received a second loan to move from a remote area to downtown Ifakara and grow her clothing production. After sick leave and maternity leave, her repayment period was extended. She still has regular customers.",
+        "fr": "Ayant remboursé son premier prêt à temps, la couturière Salma Msomi a obtenu un second prêt pour déménager d'une région reculée vers le centre-ville d'Ifakara et augmenter sa production. Après un arrêt maladie et un congé maternité, son délai de remboursement a été prolongé.",
+        "sw": "Baada ya kurejesha mkopo wa kwanza kwa wakati, fundi cherehani Salma Msomi alipata mkopo wa pili ili kuhamia katikati ya mji wa Ifakara na kuongeza uzalishaji wa nguo. Baada ya likizo ya ugonjwa na ya uzazi, muda wake wa kurejesha uliongezwa."
+      },
+      "amount": "TZS 3,000,000 (≈ CHF 1,300)",
+      "photo": "assets/projects/tz-2022-tailoring-salma-msomi-2.jpg",
+      "report": "2022",
+      "note": "Disbursed in two parts (21.07 and 25.08.2022, 2022 accounts). Ongoing with a delay of more than 6 months: 83% repaid at end of 2025 (2025 loan overview, grey); the 2024 report expected repayment by Aug 2025."
+    },
+    {
+      "id": "tz-2022-shoemaking-john-mbwambo-mtae",
+      "country": "tz",
+      "place": "",
+      "year": 2022,
+      "category": "crafts",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Shoemaking: John Mbwambo Mtae",
+        "fr": "Cordonnerie : John Mbwambo Mtae",
+        "sw": "Utengenezaji wa viatu: John Mbwambo Mtae"
+      },
+      "people": "John Mbwambo Mtae",
+      "summary": {
+        "en": "Trained at a tannery school in the Kilimanjaro region, shoemaker John Mbwambo Mtae used his loan for equipment, raw materials and renovating his shop, adding value to Tanzanian leather. After an extension he repaid in full in 2024; his business earns steady income.",
+        "fr": "Formé dans une école de tannerie de la région du Kilimandjaro, le cordonnier John Mbwambo Mtae a acheté matériel et matières premières et rénové son magasin, valorisant le cuir local. Après un délai, il a tout remboursé en 2024 ; son commerce génère des revenus stables.",
+        "sw": "Akiwa amesomea ufundi wa ngozi katika eneo la Kilimanjaro, fundi viatu John Mbwambo Mtae alinunua vifaa na malighafi na kukarabati duka lake, akiongeza thamani ya ngozi ya Tanzania. Baada ya kuongezewa muda, alirejesha mkopo wote mwaka 2024 na biashara yake ina kipato thabiti."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 850)",
+      "photo": "assets/projects/tz-2022-shoemaking-john-mbwambo-mtae.jpg",
+      "report": "2022",
+      "note": "Granted Aug 2022, repaid Nov 2024 (2025 loan overview, green). Shop location not stated anywhere."
+    },
+    {
+      "id": "tz-2022-yogurt-vijana-kazi",
+      "country": "tz",
+      "place": "Mbasa, Ifakara",
+      "year": 2022,
+      "category": "food",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Yogurt production: Vijana Kazi group",
+        "fr": "Production de yoghourt : groupe Vijana Kazi",
+        "sw": "Uzalishaji wa mtindi: kikundi cha Vijana Kazi"
+      },
+      "people": "Vijana Kazi group",
+      "summary": {
+        "en": "Vijana Kazi is a group of 15 young people aged 20 to 30 from Mbasa. Their loan bought equipment and supplies to increase yogurt production using milk from the Ifakara region, a way to preserve food. The whole loan was repaid: a success.",
+        "fr": "Vijana Kazi est un groupe de 15 jeunes de 20 à 30 ans de Mbasa. Le prêt a financé matériel et produits pour augmenter leur production de yoghourt avec du lait de la région d'Ifakara. Il a été entièrement remboursé : un succès.",
+        "sw": "Vijana Kazi ni kikundi cha vijana 15 wenye umri wa miaka 20 hadi 30 kutoka Mbasa. Mkopo ulinunua vifaa na mahitaji ili kuongeza uzalishaji wa mtindi kwa kutumia maziwa ya eneo la Ifakara. Mkopo wote ulirejeshwa: ni mafanikio."
+      },
+      "amount": "TZS 1,255,000 (≈ CHF 600)",
+      "photo": "assets/projects/tz-2022-yogurt-vijana-kazi.jpg",
+      "report": "2022",
+      "note": "Granted Sep 2022, repaid Oct 2023 (2025 loan overview, green). Photo from the 2022 report (shows yogurt being poured; small, 464x354) instead of the old-site handshake photo."
+    },
+    {
+      "id": "tz-2022-bakery-rehema-magoko",
+      "country": "tz",
+      "place": "Maendeleo, Ifakara",
+      "year": 2022,
+      "category": "food",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Local bakery: Rehema Magoko",
+        "fr": "Boulangerie locale : Rehema Magoko",
+        "sw": "Mkate wa kienyeji: Rehema Magoko"
+      },
+      "people": "Rehema Magoko",
+      "summary": {
+        "en": "Rehema Magoko, 45, from Maendeleo in the Ifakara region, had been making cakes and bread for five years. The loan bought a dough kneading machine, so she now owns her means of production. The bakery earned the expected income and repaid on time.",
+        "fr": "Rehema Magoko, 45 ans, de Maendeleo (région d'Ifakara), fabrique gâteaux et pains depuis cinq ans. Le prêt a financé une machine à pétrir : elle est propriétaire de ses moyens de production. La boulangerie a généré les revenus escomptés et remboursé dans les temps.",
+        "sw": "Rehema Magoko, mwenye miaka 45 kutoka Maendeleo, eneo la Ifakara, amekuwa akioka keki na mikate kwa miaka mitano. Mkopo ulinunua mashine ya kukanda unga, hivyo sasa anamiliki nyenzo zake za uzalishaji. Biashara ilileta kipato kilichotarajiwa na mkopo ukarejeshwa kwa wakati."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 850)",
+      "photo": "assets/projects/tz-2022-bakery-rehema-magoko.jpg",
+      "report": "2022",
+      "note": "Granted Sep 2022, repaid Sep 2023 (2025 loan overview, green). The FR 2022 report says ≈CHF 680, the EN report ≈CHF 850; 850 used."
+    },
+    {
+      "id": "tz-2021-soap-mikoroshini-women",
+      "country": "tz",
+      "place": "Mlimba",
+      "year": 2021,
+      "category": "health",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Soap cooperative: Mikoroshini women's group",
+        "fr": "Coopérative de savons : groupe de femmes Mikoroshini",
+        "sw": "Ushirika wa sabuni: kikundi cha wanawake Mikoroshini"
+      },
+      "people": "Mikoroshini women's group",
+      "summary": {
+        "en": "The Mikoroshini women's group, a cooperative founded in 2017 in Mlimba, makes soap from local raw materials. The loan aimed to increase production for schools and clinics and to replace plastic with cardboard packaging. Local soap improves hygiene and reduces imports.",
+        "fr": "Le groupe de femmes Mikoroshini, coopérative créée en 2017 à Mlimba, produit du savon avec des matières premières locales. Le prêt visait à augmenter la production pour les écoles et dispensaires et à utiliser un emballage en carton plutôt qu'en plastique.",
+        "sw": "Kikundi cha wanawake cha Mikoroshini, ushirika ulioanzishwa mwaka 2017 huko Mlimba, hutengeneza sabuni kwa malighafi za ndani. Mkopo ulilenga kuongeza uzalishaji kwa ajili ya shule na zahanati na kutumia vifungashio vya karatasi ngumu badala ya plastiki."
+      },
+      "amount": "TZS 1,500,000 (≈ CHF 615)",
+      "photo": "assets/projects/tz-2021-soap-mikoroshini-women.jpg",
+      "report": "2019-2021",
+      "note": "Granted Dec 2021 per the 2025 overview (old site: approved Oct 2021). STATUS CONFLICT, please confirm: the 2023 and 2024 reports say production continues, with an extension of more than 6 months after raw-material prices rose, and repayments resumed in 2024. The 2025 loan overview marks it red (failure) with only TZS 50,000 (3%) repaid, but the 2022 and 2024 accounts record about TZS 845,000 repaid (655,000 outstanding on 1.1.2024). Set to 'completed' per the overview. Shown as 'completed' only because the schema has no 'failed' status. Summary kept neutral."
+    },
+    {
+      "id": "tz-2021-pellet-stoves-jacqueline-mushi",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2021,
+      "category": "services",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Pellet stoves: Jacqueline Mushi",
+        "fr": "Fours à pellets : Jacqueline Mushi",
+        "sw": "Majiko ya pellets: Jacqueline Mushi"
+      },
+      "people": "Jacqueline Mushi (Pace Initiative for Smallholders)",
+      "summary": {
+        "en": "Jacqueline Mushi's association, Pace Initiative for Smallholders, makes cooking pellets from wood scraps and rice husks in Ifakara. The loan was meant to start local production of pellet stoves, which never reached the sales stage. She repaid the loan from other income.",
+        "fr": "L'association Pace Initiative for Smallholders de Jacqueline Mushi fabrique des pellets à partir de déchets de bois et de coques de riz à Ifakara. Le prêt devait lancer la production locale de fours à pellets, jamais commercialisés. Elle a remboursé via d'autres revenus.",
+        "sw": "Chama cha Jacqueline Mushi, Pace Initiative for Smallholders, hutengeneza pellets za kupikia kutokana na mabaki ya mbao na maganda ya mpunga huko Ifakara. Mkopo ulilenga kuanzisha utengenezaji wa majiko ya pellets, lakini haukufikia hatua ya kuuza. Alirejesha mkopo kwa vyanzo vingine vya kipato."
+      },
+      "amount": "TZS 2,000,000 (≈ CHF 790)",
+      "photo": "assets/projects/tz-2021-pellet-stoves-jacqueline-mushi.jpg",
+      "report": "2019-2021",
+      "note": "Granted Aug 2021. 'Solvent but stopped' (yellow) in the 2025 loan overview: fully repaid in 2023 from other income, but the project never worked, so KAZI counts it as a failure. Status 'completed'."
+    },
+    {
+      "id": "tz-2020-tailoring-salma-msomi",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2020,
+      "category": "crafts",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Tailoring: Salma Msomi",
+        "fr": "Couturière indépendante : Salma Msomi",
+        "sw": "Ushonaji: Salma Msomi"
+      },
+      "people": "Salma Msomi",
+      "summary": {
+        "en": "Salma Msomi, a seamstress from the Ifakara region, used to rent sewing machines by the hour. Her loan bought two machines to make clothes locally, support local crafts and create two jobs. She repaid the loan in full, on time.",
+        "fr": "Salma Msomi, couturière de la région d'Ifakara, louait des machines à coudre à l'heure. Son prêt a financé deux machines pour produire localement des vêtements, favoriser l'artisanat local et créer deux emplois. Le prêt a été entièrement remboursé dans les temps.",
+        "sw": "Salma Msomi, fundi cherehani kutoka eneo la Ifakara, alikuwa akikodi cherehani kwa saa. Mkopo wake ulinunua cherehani mbili ili kushona nguo hapa nchini, kukuza ufundi wa ndani na kutoa ajira mbili. Alirejesha mkopo wote kwa wakati."
+      },
+      "amount": "TZS 1,500,000 (≈ CHF 700)",
+      "photo": "assets/projects/tz-2020-tailoring-salma-msomi.jpg",
+      "report": "2019-2021",
+      "note": "Report heading says '2019 - 2020'; the 2025 overview dates the loan Jan 2020 (repaid Jun 2021), so 2020 used."
+    },
+    {
+      "id": "tz-2020-it-services-frank-matandura",
+      "country": "tz",
+      "place": "",
+      "year": 2020,
+      "category": "tech",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "IT services business: Frank Matandura",
+        "fr": "Entreprise de services informatiques : Frank Matandura",
+        "sw": "Biashara ya huduma za TEHAMA: Frank Matandura"
+      },
+      "people": "Frank Matandura",
+      "summary": {
+        "en": "Frank Matandura, a professional programmer, started a business developing websites and information systems, helping build local IT capacity. Thanks to the business's success, repayment came ahead of schedule, and the loan was fully repaid.",
+        "fr": "Frank Matandura, programmeur informatique professionnel, a lancé son entreprise de développement de sites internet et de systèmes d'information. Grâce à la réussite économique de l'entreprise, le prêt a pu être remboursé avant l'échéance prévue.",
+        "sw": "Frank Matandura, mtaalamu wa programu za kompyuta, alianzisha biashara ya kutengeneza tovuti na mifumo ya taarifa, akisaidia kujenga uwezo wa TEHAMA nchini. Kutokana na mafanikio ya biashara, alirejesha mkopo wote kabla ya muda uliopangwa."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 450)",
+      "photo": "assets/projects/tz-2020-it-services-frank-matandura.jpg",
+      "report": "2019-2021",
+      "note": "Report heading '2019 - 2020'; the 2025 overview dates the loan Jan 2020 (repaid Jul 2021). The EN report says half was repaid early, the FR report says the loan was repaid before the deadline. Place not stated anywhere."
+    },
+    {
+      "id": "tz-2020-palm-oil-rozalia-mpangala",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2020,
+      "category": "food",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Artisanal palm oil: Rozalia Mpangala",
+        "fr": "Huile de palme artisanale : Rozalia Mpangala",
+        "sw": "Mafuta ya mawese ya kienyeji: Rozalia Mpangala"
+      },
+      "people": "Rozalia Mpangala",
+      "summary": {
+        "en": "Rozalia Mpangala, a farmer, produces palm oil by hand from wild palm trees rather than plantations, and sells it at the market. Sun-dried fruit shells replace charcoal as fuel for refining. Her first loan was repaid on time.",
+        "fr": "Rozalia Mpangala, agricultrice, produit artisanalement de l'huile de palme à partir de palmiers sauvages, et non de plantations. Les coques des fruits séchées au soleil remplacent le charbon de bois pour le raffinage. Son premier prêt a été remboursé dans les temps.",
+        "sw": "Rozalia Mpangala, mkulima, hukamua mafuta ya mawese kwa mikono kutoka michikichi ya asili, si ya mashamba makubwa, na kuyauza sokoni. Maganda ya matunda yaliyokaushwa juani hutumika badala ya mkaa. Mkopo wake wa kwanza ulirejeshwa kwa wakati."
+      },
+      "amount": "TZS 500,000 (≈ CHF 220)",
+      "photo": "assets/projects/tz-2020-palm-oil-rozalia-mpangala.jpg",
+      "report": "2019-2021",
+      "note": "The old site calls this KAZI's first project. Report heading '2019 - present'; the 2025 overview dates the loan Jan 2020 (repaid Jul 2021, '17 months', while the report says about 6 months). Place 'Ifakara region' comes from the old site only."
+    },
+    {
+      "id": "tz-2020-palm-oil-rozalia-mpangala-2",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2020,
+      "category": "food",
+      "status": "completed",
+      "second_loan": true,
+      "title": {
+        "en": "Artisanal palm oil: Rozalia Mpangala (2nd loan)",
+        "fr": "Huile de palme artisanale : Rozalia Mpangala (2e prêt)",
+        "sw": "Mafuta ya mawese ya kienyeji: Rozalia Mpangala (mkopo wa 2)"
+      },
+      "people": "Rozalia Mpangala",
+      "summary": {
+        "en": "After the success of her first loan, Rozalia Mpangala received a second loan to expand her palm oil production. Personal financial difficulties then hampered her business and, despite adapted repayment schedules, the loan could only be partly repaid.",
+        "fr": "Suite à la réussite du premier projet, Rozalia Mpangala a obtenu un deuxième prêt pour étendre sa production d'huile de palme. Des difficultés financières personnelles ont ensuite entravé son activité et, malgré des échéances aménagées, le prêt n'a été que partiellement remboursé.",
+        "sw": "Baada ya mafanikio ya mkopo wa kwanza, Rozalia Mpangala alipata mkopo wa pili ili kupanua uzalishaji wa mafuta ya mawese. Changamoto binafsi za kifedha ziliathiri biashara yake na, licha ya ratiba nafuu za malipo, mkopo ulirejeshwa kwa sehemu tu."
+      },
+      "amount": "TZS 1,000,000 (≈ CHF 440)",
+      "photo": "assets/projects/tz-2020-palm-oil-rozalia-mpangala-2.jpg",
+      "report": "2019-2021",
+      "note": "Not on the old website as its own project. Granted Jun 2020 per the 2025 overview (the 2019-2021 report does not date it). Failure: 30% (TZS 300,000) repaid (overview: red); the 2022 report also blames insufficient commitment, which was left out of the public text. Shown as 'completed' only because the schema has no 'failed' status. Photo: collage from her old-site page, not specific to the 2nd loan."
+    },
+    {
+      "id": "tz-2020-mushrooms-ifakara-women",
+      "country": "tz",
+      "place": "Ifakara",
+      "year": 2020,
+      "category": "agriculture",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Mushroom cooperative: Ifakara women's group",
+        "fr": "Coopérative de champignons : groupe de femmes d'Ifakara",
+        "sw": "Ushirika wa uyoga: kikundi cha wanawake wa Ifakara"
+      },
+      "people": "Ifakara women's mushroom cooperative",
+      "summary": {
+        "en": "Several women in Ifakara who grew mushrooms at home formed a cooperative to pool knowledge and equipment, raise production and cut costs. Half the loan was repaid, but after a relocation the seasonal production was lost and the project never restarted.",
+        "fr": "Plusieurs femmes d'Ifakara cultivant des champignons chez elles ont créé une coopérative pour mettre en commun connaissances et moyens de production. La moitié du prêt a été remboursée, mais suite à un déménagement, la production saisonnière a été perdue et le projet n'a jamais redémarré.",
+        "sw": "Wanawake kadhaa wa Ifakara waliokuwa wakilima uyoga nyumbani waliunda ushirika ili kuunganisha maarifa na vifaa, kuongeza uzalishaji na kupunguza gharama. Nusu ya mkopo ilirejeshwa, lakini baada ya kuhama, uzalishaji wa msimu ulipotea na mradi haukuanza tena."
+      },
+      "amount": "TZS 1,500,000 (≈ CHF 680)",
+      "photo": "assets/projects/tz-2020-mushrooms-ifakara-women.jpg",
+      "report": "2019-2021",
+      "note": "Report heading '2019 - present'; the 2025 overview dates the loan Mar 2020 (5 women). Declared a failure in the 2023 report (50% repaid; overview: red). Shown as 'completed' only because the schema has no 'failed' status."
+    },
+    {
+      "id": "tz-2020-gypsum-victor-beda",
+      "country": "tz",
+      "place": "Morogoro region",
+      "year": 2020,
+      "category": "services",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Gypsum production: Victor Beda",
+        "fr": "Production de gypse : Victor Beda",
+        "sw": "Uzalishaji wa jasi: Victor Beda"
+      },
+      "people": "Victor Beda",
+      "summary": {
+        "en": "Victor Beda, a chemistry graduate from the Morogoro region, wanted a local, low-emission alternative to cement and wood in construction by refining gypsum and drying it in the sun. He started production but could not sell enough to repay the loan.",
+        "fr": "Diplômé en chimie, Victor Beda (région de Morogoro) cherchait une alternative locale et durable au ciment et au bois dans la construction, en raffinant du gypse séché au soleil. Il a initié la production, mais n'a pas pu la vendre en quantité suffisante.",
+        "sw": "Victor Beda, mhitimu wa kemia kutoka eneo la Morogoro, alitaka kutoa mbadala wa ndani wa saruji na mbao katika ujenzi kwa kusafisha jasi na kuikausha juani. Alianza uzalishaji lakini hakuweza kuuza vya kutosha ili kurejesha mkopo."
+      },
+      "amount": "TZS 1,500,000 (≈ CHF 680)",
+      "photo": "assets/projects/tz-2020-gypsum-victor-beda.jpg",
+      "report": "2019-2021",
+      "note": "Not on the old website. Report heading '2019 - 2019'; the 2025 overview ('Gypse Project') dates the loan Mar 2020, failure with 20% repaid (red). Shown as 'completed' only because the schema has no 'failed' status. This failure led KAZI to favour projects near Ifakara. Category 'services' is a guess (building-material production; no category fits well). Photo taken from the 2019-2021 report."
+    },
+    {
+      "id": "tz-2020-village-projects-kv-help",
+      "country": "tz",
+      "place": "Kilombero Valley",
+      "year": 2020,
+      "category": "services",
+      "status": "completed",
+      "second_loan": false,
+      "title": {
+        "en": "Village micro-projects with KV-HELP",
+        "fr": "Microprojets villageois avec KV-HELP",
+        "sw": "Miradi midogo ya vijijini kupitia KV-HELP"
+      },
+      "people": "Women's and youth groups (with KV-HELP)",
+      "summary": {
+        "en": "Through a partnership with the local NGO KV-HELP, which selected and supported the projects, KAZI funded five small projects in very rural areas of the Kilombero Valley: bike rental, two small restaurants, a local produce shop and farming. Four repaid on time.",
+        "fr": "Grâce à un partenariat avec l'ONG locale KV-HELP, qui a sélectionné et accompagné les projets, KAZI a financé cinq projets en zones très rurales de la vallée de Kilombero : location de vélos, deux restaurants, un magasin de nourriture locale et l'agriculture. Quatre ont remboursé.",
+        "sw": "Kupitia ushirikiano na shirika la ndani KV-HELP, lililochagua na kusimamia miradi, KAZI ilifadhili miradi midogo mitano vijijini katika Bonde la Kilombero: kukodisha baiskeli, migahawa midogo miwili, duka la vyakula vya ndani na kilimo. Minne ilirejesha mikopo kwa wakati."
+      },
+      "amount": "TZS 1,900,000 (≈ CHF 800)",
+      "photo": "",
+      "report": "2019-2021",
+      "note": "KV-HELP itself is a partner NGO (MoU signed 2020), not a borrower; consider adding it to partners.json. This entry groups 5 separate loans (total TZS 1,900,000), all dated Mar 2020 in the 2025 overview: bike rental 400,000; 'coffee' 200,000; agricultural project 300,000; 'rice selling' 500,000 (all repaid Jul 2021, green); restaurant 500,000 (failure, 75% repaid, red; the 2022 report cites the leader's major health problems). The overview names ('coffee', 'rice selling') differ from the report list (2 restaurants, a local shop). Split into 5 entries or drop if the team prefers. No photo (only the KV-HELP logo exists)."
+    }
+  ]
+}
