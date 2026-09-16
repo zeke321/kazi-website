@@ -1,4 +1,4 @@
-﻿# Caddy config for the KAZI website. Caddy gets and renews HTTPS certificates automatically.
+# Caddy config for the KAZI website. Caddy gets and renews HTTPS certificates automatically.
 # kazi.example is replaced by the real domain when you run setup-vps.sh.
 
 kazi.example {
