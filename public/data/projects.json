@@ -119,7 +119,8 @@
       "amount": "TZS 1,000,000 (≈ CHF 320)",
       "photo": "assets/projects/tz-2025-vegetables-said-kileo.jpg",
       "report": "2025",
-      "note": "Place not stated in the 2025 report; please confirm."
+      "note": "Place not stated in the 2025 report; please confirm.",
+      "featured": false
     },
     {
       "id": "tz-2025-cocoa-joipha-kayange",
@@ -217,7 +218,7 @@
       "photo": "assets/projects/tz-2025-honey-bravu.jpg",
       "report": "2025",
       "note": "Place not stated in the 2025 report; please confirm. Report title says '(2nd loan)', but no earlier beekeeping loan appears in the 2020-2024 overview table (p.9) and the text does not mention a first loan; confirm second_loan. Table p.9 says 'Mixed group' of 5. Source photo is low-res (402x546).",
-      "featured": true
+      "featured": false
     },
     {
       "id": "tz-2025-bikes-shaban-somba",
@@ -265,7 +266,8 @@
       "amount": "TZS 6,000,000 (≈ CHF 1,930)",
       "photo": "assets/projects/tz-2025-aquaculture-evance-mahundi.jpg",
       "report": "2025",
-      "note": "Place not stated in the 2025 report; please confirm. AMOUNT UNCERTAIN: project text (p.16) says TZS 6,000,000, but the overview table p.9 ('Bio floc fish farming project') and the 2025 accounting say TZS 7,000,000; the 2025 total of TZS 44,700,000 only adds up with 7,000,000 (≈ CHF 2,250). Confirm and update amount."
+      "note": "Place not stated in the 2025 report; please confirm. AMOUNT UNCERTAIN: project text (p.16) says TZS 6,000,000, but the overview table p.9 ('Bio floc fish farming project') and the 2025 accounting say TZS 7,000,000; the 2025 total of TZS 44,700,000 only adds up with 7,000,000 (≈ CHF 2,250). Confirm and update amount.",
+      "featured": true
     },
     {
       "id": "tz-2025-snacks-dads-food",

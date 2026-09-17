@@ -175,7 +175,7 @@ function renderTeams() {
           <h3>${esc(tr(team.name))}</h3>
           ${tr(team.intro) ? `<p>${esc(tr(team.intro))}</p>` : ''}
         </div>
-        ${team.id !== 'ch' ? `<a class="btn btn-outline" href="#contact">${t('team.contact')}</a>` : ''}
+        <a class="btn btn-outline" href="#contact">${t('team.contact')}</a>
       </div>
       <div class="team">
         ${(team.members || []).map((m, i) => {
