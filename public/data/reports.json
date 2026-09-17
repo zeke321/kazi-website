@@ -5,7 +5,7 @@
       "pdf_en": "reports/KAZI-activity-report-2025-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2025-FR.pdf" },
     { "id": "2024", "label": "2024", "latest": false,
       "subtitle": { "en": "Tanzania & Chad", "fr": "Tanzanie et Tchad", "sw": "Tanzania na Chad" },
-      "pdf_en": "", "pdf_fr": "reports/KAZI-activity-report-2024-FR.pdf" },
+      "pdf_en": "reports/KAZI-activity-report-2024-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2024-FR.pdf" },
     { "id": "2023", "label": "2023", "latest": false,
       "subtitle": { "en": "First Chad projects", "fr": "Premiers projets au Tchad", "sw": "Miradi ya kwanza Chad" },
       "pdf_en": "reports/KAZI-activity-report-2023-EN.pdf", "pdf_fr": "reports/KAZI-activity-report-2023-FR.pdf" },
