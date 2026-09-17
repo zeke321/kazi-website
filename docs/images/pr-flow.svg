@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="Pull request lifecycle: branch, commit, open PR, automated checks, human review, merge, deploy">
+  <rect x="0" y="0" width="900" height="620" fill="#ffffff"/>
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#57606a"/>
+    </marker>
+    <marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#cf222e"/>
+    </marker>
+  </defs>
+
+  <text x="450" y="36" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2328">Life of a change: from your idea to the live website</text>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <!-- Row A -->
+    <rect x="290" y="70" width="270" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="310" y="98" font-size="14" font-weight="bold" fill="#1f2328">1. Create a branch</text>
+    <text x="310" y="120" font-size="12" fill="#57606a">A private copy of the site to work in.</text>
+    <text x="310" y="136" font-size="12" fill="#57606a">Nothing you do here touches the live site.</text>
+
+    <rect x="290" y="182" width="270" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="310" y="210" font-size="14" font-weight="bold" fill="#1f2328">2. Make and commit your changes</text>
+    <text x="310" y="232" font-size="12" fill="#57606a">Edit text, photos, data. Commit as often</text>
+    <text x="310" y="248" font-size="12" fill="#57606a">as you like, then push the branch.</text>
+
+    <rect x="290" y="294" width="270" height="72" rx="8" fill="#ddf1ff" stroke="#0969da"/>
+    <text x="310" y="322" font-size="14" font-weight="bold" fill="#1f2328">3. Open a Pull Request</text>
+    <text x="310" y="344" font-size="12" fill="#57606a">A formal request: "please review these</text>
+    <text x="310" y="360" font-size="12" fill="#57606a">changes and publish them."</text>
+
+    <rect x="290" y="406" width="270" height="72" rx="8" fill="#fff8c5" stroke="#9a6700"/>
+    <text x="310" y="434" font-size="14" font-weight="bold" fill="#1f2328">4. Automated checks run</text>
+    <text x="310" y="456" font-size="12" fill="#57606a">GitHub validates the data files before</text>
+    <text x="310" y="472" font-size="12" fill="#57606a">a human spends time on it.</text>
+
+    <rect x="290" y="518" width="270" height="72" rx="8" fill="#fff8c5" stroke="#9a6700"/>
+    <text x="310" y="546" font-size="14" font-weight="bold" fill="#1f2328">5. Human review (maintainer)</text>
+    <text x="310" y="568" font-size="12" fill="#57606a">Reads every line, tests, asks questions.</text>
+    <text x="310" y="584" font-size="12" fill="#57606a">This is the safety net.</text>
+
+    <!-- Right column outcome: merge (aligned with review), then deploy above -->
+    <rect x="620" y="406" width="250" height="72" rx="8" fill="#ddf4e4" stroke="#1a7f37"/>
+    <text x="640" y="434" font-size="14" font-weight="bold" fill="#1f2328">7. Automatic deploy</text>
+    <text x="640" y="456" font-size="12" fill="#57606a">GitHub Actions publishes public/ to</text>
+    <text x="640" y="472" font-size="12" fill="#57606a">the VPS. The change is live.</text>
+
+    <rect x="620" y="518" width="250" height="72" rx="8" fill="#ddf4e4" stroke="#1a7f37"/>
+    <text x="640" y="546" font-size="14" font-weight="bold" fill="#1f2328">6. Merge into main</text>
+    <text x="640" y="568" font-size="12" fill="#57606a">Only the maintainer can do this.</text>
+    <text x="640" y="584" font-size="12" fill="#57606a">Your work becomes official.</text>
+  </g>
+
+  <!-- main flow arrows -->
+  <g stroke="#57606a" stroke-width="2" marker-end="url(#a2)" fill="none">
+    <line x1="425" y1="144" x2="425" y2="178"/>
+    <line x1="425" y1="256" x2="425" y2="290"/>
+    <line x1="425" y1="368" x2="425" y2="402"/>
+    <line x1="425" y1="480" x2="425" y2="514"/>
+  </g>
+
+  <!-- approved path: review -> merge -> deploy -->
+  <g stroke="#1a7f37" stroke-width="2" fill="none">
+    <path d="M 562 554 L 616 554" marker-end="url(#a2)"/>
+    <path d="M 745 516 L 745 482" marker-end="url(#a2)"/>
+  </g>
+  <text x="566" y="544" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1a7f37">approved</text>
+  <text x="752" y="502" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1a7f37">then</text>
+  <!-- rejection loops back to step 2 -->
+  <g stroke="#cf222e" stroke-width="2" fill="none" marker-end="url(#a3)" stroke-dasharray="6 4">
+    <path d="M 288 442 L 262 442 L 262 218 L 286 218"/>
+    <path d="M 288 554 L 235 554 L 235 232 L 286 232"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="30" y="396" font-size="13" font-weight="bold" fill="#cf222e">Checks fail, or the</text>
+    <text x="30" y="414" font-size="13" font-weight="bold" fill="#cf222e">maintainer requests changes:</text>
+    <text x="30" y="438" font-size="12" fill="#cf222e">fix it and push again.</text>
+    <text x="30" y="462" font-size="12" fill="#57606a">The same pull request updates</text>
+    <text x="30" y="478" font-size="12" fill="#57606a">itself. You never open a new one.</text>
+  </g>
+</svg>

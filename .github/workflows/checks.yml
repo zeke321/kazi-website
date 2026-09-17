@@ -1,0 +1,17 @@
+name: Checks
+
+# Runs on every pull request, before anything is merged or published.
+# This is the status check to require in the branch protection rule for "main".
+on:
+  pull_request:
+    branches: [main, preview]
+  workflow_dispatch:
+
+jobs:
+  check-data:
+    name: Check data files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check data files
+        run: python3 scripts/check_data.py
