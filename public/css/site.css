@@ -109,9 +109,9 @@ section{padding-block:72px}
 @media (max-width:860px){.about-grid{grid-template-columns:1fr;gap:28px}}
 
 /* where */
-.where-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:center}
+.where-grid{display:grid;grid-template-columns:1fr 1.15fr;gap:40px;align-items:center}
 .map{background:#fff;border-radius:var(--radius);border:1px solid var(--line);padding:16px}
-.map svg{width:100%;height:auto;display:block}
+.map svg{width:100%;max-width:330px;height:auto;display:block;margin:0 auto}
 .map a{cursor:pointer}
 .map a:hover circle.pin,.map a:focus circle.pin{r:10}
 .loc{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid var(--line)}
@@ -268,7 +268,9 @@ footer ul{list-style:none;padding:0;margin:0;display:grid;gap:6px}
 .filterbar .count{margin:0 0 10px auto;color:var(--muted);font-size:15px}
 @media (max-width:700px){.filterbar label{flex:1 1 calc(50% - 8px)}.filterbar select{min-width:0;width:100%}.filterbar .count{margin:0;flex-basis:100%}}
 
-.card-img{display:block;width:100%;height:200px;object-fit:cover;background:var(--bg-alt)}
+.card-img{display:block;width:100%;height:200px;object-fit:cover;object-position:50% 28%;background:var(--bg-alt)}
+/* single-column cards on phones: taller frame so portrait photos keep faces in view */
+@media (max-width:600px){.card-img{height:auto;aspect-ratio:4/3}}
 .card .ph.card-img{border-radius:0}
 .card .people{font-family:Poppins,system-ui,sans-serif;font-size:14px;color:var(--teal-dark);margin-top:-4px}
 .card .amount:empty{display:none}
