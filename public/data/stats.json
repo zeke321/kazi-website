@@ -1,6 +1,6 @@
 {
   "stats": [
-    { "value": "60+", "label": { "en": "projects funded since 2021", "fr": "projets financés depuis 2021", "sw": "miradi iliyofadhiliwa tangu 2021" } },
+    { "value": "50+", "label": { "en": "projects funded since 2020", "fr": "projets financés depuis 2020", "sw": "miradi iliyofadhiliwa tangu 2020" } },
     { "value": "~160", "label": { "en": "people working in KAZI-supported projects", "fr": "personnes travaillent dans des projets soutenus par KAZI", "sw": "watu wanaofanya kazi katika miradi inayosaidiwa na KAZI" } },
     { "value": "94%", "label": { "en": "of loans repaid since 2022", "fr": "des prêts remboursés depuis 2022", "sw": "ya mikopo imelipwa tangu 2022" } },
     { "value": "0%", "label": { "en": "interest rate charged to micro-entrepreneurs", "fr": "taux d'intérêt pour les micro-entrepreneurs·euses", "sw": "riba kwa wajasiriamali wadogo" } }
