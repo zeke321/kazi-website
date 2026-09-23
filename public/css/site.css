@@ -220,7 +220,7 @@ a.logo-box:hover{background:var(--teal-soft)}
 .bank dd{margin:0;font-weight:500;word-break:break-word}
 .copy{margin-top:14px;font-family:Poppins,system-ui,sans-serif;font-size:14px;background:var(--teal-soft);color:var(--teal-dark);border:0;border-radius:8px;padding:10px 14px;cursor:pointer;min-height:40px}
 .twint{display:flex;gap:14px;align-items:center;margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
-.qr{flex:none;width:72px;height:72px;border:1px solid var(--line);border-radius:8px;display:grid;place-items:center;font-family:Poppins,system-ui,sans-serif;font-size:11px;color:var(--muted);text-align:center;background:repeating-linear-gradient(45deg,#f3f5f5 0 6px,#fff 6px 12px)}
+.qr{flex:none;width:140px;height:140px;border:1px solid var(--line);border-radius:8px;background:#fff;display:block}
 .twint p{margin:0;font-size:15px;color:var(--muted)}
 .twint b{color:var(--ink)}
 @media (max-width:860px){.donate-grid{grid-template-columns:1fr}.amounts{grid-template-columns:1fr}}
