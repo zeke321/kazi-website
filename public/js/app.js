@@ -25,6 +25,10 @@ const PARTNERS = partnersData || { partners: [] };
 const REPORTS = (reportsData && reportsData.reports) || [];
 const STATS = (statsData && statsData.stats) || [];
 const LANGS = Object.assign({}, I18N || {});
+/* Languages kept in the data but not offered on the site yet (Swahili is under review).
+ * Remove a code from this list, and add its button back in index.html, to publish it. */
+const HIDDEN_LANGS = ['sw'];
+HIDDEN_LANGS.forEach(l => delete LANGS[l]);
 
 /* Strings used only from script (English defaults) */
 const SCRIPT_EN = {
@@ -64,7 +68,7 @@ function renderHero() {
   const featured = withPhoto.filter(p => p.featured);
   const pick = (featured.length >= 3 ? featured : featured.concat(withPhoto.filter(p => !p.featured))).slice(0, 3);
   $('hero-photos').innerHTML = pick.map((p, i) =>
-    `<img src="${esc(p.photo)}" alt="" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">`).join('');
+    `<img src="${esc(p.photo)}" alt="${esc(tr(p.alt))}" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">`).join('');
 }
 
 /* ---------- Projects ---------- */
@@ -104,7 +108,7 @@ function card(p) {
   const reportLink = report
     ? `<a class="more" href="#report-${esc(report.id)}">${esc(t('reports.in').replace('{year}', report.label))}</a>` : '';
   const img = p.photo
-    ? `<img class="card-img" src="${esc(p.photo)}" alt="${esc(tr(p.title))}" loading="lazy" decoding="async">`
+    ? `<img class="card-img" src="${esc(p.photo)}" alt="${esc(tr(p.alt) || tr(p.title))}" loading="lazy" decoding="async">`
     : `<div class="ph card-img" aria-hidden="true"></div>`;
   return `<article class="card">
     ${img}

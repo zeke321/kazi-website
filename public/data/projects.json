@@ -21,6 +21,11 @@
       },
       "amount": "TZS 1,000,000 (≈ CHF 320)",
       "photo": "assets/projects/tz-2025-soap-florida-lipiki.jpg",
+      "alt": {
+        "en": "Florida Lipiki with the bar soaps she produces in Ifakara",
+        "fr": "Florida Lipiki avec les savons en barre qu'elle produit à Ifakara",
+        "sw": "Florida Lipiki akiwa na sabuni za mche anazotengeneza Ifakara"
+      },
       "report": "2025",
       "note": "Place not stated in the 2025 report; please confirm. Status 'completed': report p.9 lists 'Bar soap project' as Success, 100% repaid (Feb-25 to Dec-25). Category crafts chosen (soap is not in the category examples).",
       "featured": true
@@ -40,8 +45,8 @@
       },
       "people": "Dada Lead",
       "summary": {
-        "en": "Three women planned to sell over 3,000 reusable menstrual pads to schoolgirls in Kilombero. They ended their collaboration just after receiving the loan and repaid it in full.",
-        "fr": "Trois femmes voulaient commercialiser plus de 3'000 serviettes menstruelles réutilisables pour les écolières du Kilombero. Elles ont mis fin à leur collaboration juste après avoir reçu le prêt, qu'elles ont intégralement remboursé.",
+        "en": "Three women planned to sell over 3,000 reusable menstrual pads to schoolgirls in Kilombero. The group later dissolved, but repaid the loan in full.",
+        "fr": "Trois femmes voulaient commercialiser plus de 3'000 serviettes menstruelles réutilisables pour les écolières du Kilombero. Le groupe s'est dissous par la suite, mais a intégralement remboursé le prêt.",
         "sw": "Wanawake watatu walipanga kuuza zaidi ya taulo 3,000 za kike zinazotumika tena kwa wanafunzi wa kike wa Kilombero. Walivunja ushirikiano wao mara baada ya kupokea mkopo na wakaurejesha wote."
       },
       "amount": "TZS 2,000,000 (≈ CHF 640)",
@@ -191,6 +196,11 @@
       },
       "amount": "TZS 2,000,000 (≈ CHF 640)",
       "photo": "assets/projects/tz-2025-textile-elizabeth-funga.jpg",
+      "alt": {
+        "en": "Elizabeth Funga Francis weaving blankets and fabrics",
+        "fr": "Elizabeth Funga Francis tissant des couvertures et des étoffes",
+        "sw": "Elizabeth Funga Francis akifuma blanketi na vitambaa"
+      },
       "report": "2025",
       "note": "Place not stated in the 2025 report; please confirm. She trained at the Ifakara Women Weavers Association, but her business location is not stated.",
       "featured": true
@@ -265,6 +275,11 @@
       },
       "amount": "TZS 6,000,000 (≈ CHF 1,930)",
       "photo": "assets/projects/tz-2025-aquaculture-evance-mahundi.jpg",
+      "alt": {
+        "en": "Evance Mahundi at his fish farming ponds",
+        "fr": "Evance Mahundi à ses bassins de pisciculture",
+        "sw": "Evance Mahundi kwenye mabwawa yake ya kufugia samaki"
+      },
       "report": "2025",
       "note": "Place not stated in the 2025 report; please confirm. AMOUNT UNCERTAIN: project text (p.16) says TZS 6,000,000, but the overview table p.9 ('Bio floc fish farming project') and the 2025 accounting say TZS 7,000,000; the 2025 total of TZS 44,700,000 only adds up with 7,000,000 (≈ CHF 2,250). Confirm and update amount.",
       "featured": true
@@ -1118,8 +1133,8 @@
       "status": "completed",
       "second_loan": false,
       "title": {
-        "en": "Village micro-projects with KV-HELP",
-        "fr": "Microprojets villageois avec KV-HELP",
+        "en": "Five village micro-projects with KV-HELP",
+        "fr": "Cinq microprojets villageois avec KV-HELP",
         "sw": "Miradi midogo ya vijijini kupitia KV-HELP"
       },
       "people": "Women's and youth groups (with KV-HELP)",
