@@ -124,6 +124,19 @@ content:
       type: image
       options:
         media: projects
+    - name: alt
+      label: Photo description for screen readers (what the photo shows)
+      type: object
+      fields:
+      - name: en
+        label: English
+        type: string
+      - name: fr
+        label: Français
+        type: string
+      - name: sw
+        label: Kiswahili
+        type: string
     - name: report
       label: Report ID that tells this story, e.g. 2025
       type: string

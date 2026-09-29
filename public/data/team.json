@@ -135,66 +135,80 @@
         "sw": "KAZI Tanzania, Ifakara"
       },
       "intro": {
-        "en": "The local team in Ifakara receives applications, selects projects, pays out the loans and supports each project holder until the loan is repaid.",
-        "fr": "L'équipe locale à Ifakara reçoit les candidatures, sélectionne les projets, verse les prêts et accompagne chaque porteur·euse de projet jusqu'au remboursement du prêt.",
-        "sw": "Timu ya Ifakara inapokea maombi, inachagua miradi, inatoa mikopo na inamfuatilia kila mwenye mradi hadi mkopo urejeshwe."
+        "en": "A team with diverse professional backgrounds and a shared commitment to helping women and young entrepreneurs in rural Tanzania turn promising ideas into sustainable livelihoods. The Tanzania team leads the selection and follow-up of supported initiatives, coordinates programme activities, manages the revolving fund, and oversees KAZI's financial, administrative and legal operations in Tanzania.",
+        "fr": "Une équipe aux parcours professionnels variés, unie par la volonté d'aider les femmes et les jeunes entrepreneurs·euses des zones rurales de Tanzanie à transformer des idées prometteuses en moyens de subsistance durables. L'équipe tanzanienne conduit la sélection et le suivi des initiatives soutenues, coordonne les activités des programmes, gère le fonds renouvelable et supervise les opérations financières, administratives et juridiques de KAZI en Tanzanie.",
+        "sw": "Timu yenye taaluma mbalimbali na dhamira moja ya kuwasaidia wanawake na vijana wajasiriamali vijijini Tanzania kugeuza mawazo yenye matumaini kuwa vyanzo endelevu vya kipato. Timu ya Tanzania inaongoza uchaguzi na ufuatiliaji wa miradi inayosaidiwa, inaratibu shughuli za programu, inasimamia mfuko unaozunguka, na inasimamia shughuli za kifedha, kiutawala na kisheria za KAZI nchini Tanzania."
       },
       "members": [
         {
-          "name": "Michael Kasmiri",
+          "name": "Michael M. Kasmiri",
           "role": {
-            "en": "President",
-            "fr": "Président",
-            "sw": "Mwenyekiti"
+            "en": "Co-Founder & Chairman",
+            "fr": "Cofondateur et président",
+            "sw": "Mwanzilishi Mwenza na Mwenyekiti"
           },
           "bio": {
-            "en": "Dr Michael Kasmiri is a physician at St. Francis Referral Hospital and local project manager for Charité University Hospital in Berlin, in the Health Telematics partnership with the Ifakara Health Institute and St. Francis Hospital. He works to improve care for HIV/TB patients in rural Tanzania by shortening the time from diagnosis to treatment. He graduated with honours from the University of Dodoma and the Institute of Rural Development Planning.",
-            "fr": "Le Dr Michael Kasmiri est médecin au St. Francis Referral Hospital et chef de projet local pour l'hôpital universitaire de la Charité (Berlin), dans le projet Health Telematics mené avec l'Ifakara Health Institute et l'hôpital St. Francis. Il s'efforce d'améliorer la prise en charge des patients VIH/tuberculose en zone rurale, en raccourcissant le délai entre diagnostic et traitement. Il est diplômé avec mention de l'Université de Dodoma et de l'Institute of Rural Development Planning.",
-            "sw": "Dkt. Michael Kasmiri ni daktari katika Hospitali ya Rufaa ya St. Francis na meneja wa mradi wa ndani wa Hospitali ya Chuo Kikuu cha Charité (Berlin), katika mradi wa Health Telematics unaoshirikisha Taasisi ya Afya Ifakara na Hospitali ya St. Francis. Anafanya kazi kuboresha huduma kwa wagonjwa wa VVU/TB vijijini Tanzania kwa kufupisha muda kati ya utambuzi wa ugonjwa na kuanza matibabu. Alihitimu kwa heshima katika Chuo Kikuu cha Dodoma na Taasisi ya Mipango ya Maendeleo Vijijini."
+            "en": "Michael chairs the Board of KAZI Startfunding Tanzania, which he co-founded. He provides strategic leadership and oversight, guiding the organisation's direction and growth in Tanzania.",
+            "fr": "Michael préside le comité de KAZI Startfunding Tanzanie, qu'il a cofondé. Il assure la direction stratégique et la supervision, et oriente le développement de l'organisation en Tanzanie.",
+            "sw": "Michael ni Mwenyekiti wa Bodi ya KAZI Startfunding Tanzania, aliyoianzisha pamoja na wenzake. Anatoa uongozi wa kimkakati na usimamizi, akielekeza mwelekeo na ukuaji wa shirika nchini Tanzania."
           },
           "photo": "assets/team/tz-michael-kasmiri.jpg"
         },
         {
-          "name": "Felician Clement Meza",
-          "role": {
-            "en": "Treasurer",
-            "fr": "Trésorier",
-            "sw": "Mweka Hazina"
-          },
-          "bio": {
-            "en": "Felician Clement Meza is a research scientist at the Ifakara Health Institute, which he joined in 2013 after a BSc in Applied Zoology from the University of Dar es Salaam. A Wellcome Trust Fellow from 2017 to 2020, he holds an MSc in Molecular Parasitology and Vector Biology from Keele University and the University of Salford (UK). He founded Unaweza, a network inspiring people to take responsibility for their lives, and shares KAZI's vision.",
-            "fr": "Felician Clement Meza est chercheur à l'Ifakara Health Institute, qu'il a rejoint en 2013 après un BSc en zoologie appliquée à l'Université de Dar es Salaam. Boursier du Wellcome Trust de 2017 à 2020, il est titulaire d'un MSc en parasitologie moléculaire et biologie des vecteurs (Keele University et University of Salford, Royaume-Uni). Il a fondé Unaweza, un réseau qui incite chacun à prendre sa vie en main, et partage la vision de KAZI.",
-            "sw": "Felician Clement Meza ni mwanasayansi mtafiti katika Taasisi ya Afya Ifakara, aliyojiunga nayo mwaka 2013 baada ya shahada ya Zoolojia Tumizi kutoka Chuo Kikuu cha Dar es Salaam. Alikuwa mtafiti wa Wellcome Trust kuanzia 2017 hadi 2020, na ana shahada ya uzamili ya Parasitolojia ya Molekuli na Biolojia ya Wadudu Waenezao Magonjwa kutoka Keele University na University of Salford (Uingereza). Alianzisha Unaweza, mtandao unaohamasisha watu kuwajibika kwa maisha yao, na anaunga mkono dira ya KAZI."
-          },
-          "photo": "assets/team/tz-felician-clement-meza.jpg"
-        },
-        {
           "name": "Geofrey I. Ashery",
           "role": {
-            "en": "Secretary",
-            "fr": "Secrétaire",
-            "sw": "Katibu"
+            "en": "Co-Founder & Executive Secretary",
+            "fr": "Cofondateur et secrétaire exécutif",
+            "sw": "Mwanzilishi Mwenza na Katibu Mtendaji"
           },
           "bio": {
-            "en": "Geofrey I. Ashery is a researcher with over eight years' experience in child and maternal health, and a sociology graduate of the Open University of Tanzania. He works as a research officer and social scientist at the Ifakara Health Institute on the DYNAMIC trial, which uses electronic decision trees to manage sick children. Passionate about improving the lives of disadvantaged women and children, he became one of the founders of KAZI Startfunding in Tanzania.",
-            "fr": "Geofrey I. Ashery est chercheur, avec plus de huit ans d'expérience en santé maternelle et infantile, et diplômé en sociologie de l'Open University of Tanzania. Il travaille comme chargé de recherche et sociologue à l'Ifakara Health Institute sur l'essai DYNAMIC, qui utilise des arbres de décision électroniques pour soigner les enfants malades. Soucieux d'améliorer la vie des femmes et des enfants défavorisés, il est l'un des fondateurs de KAZI Startfunding en Tanzanie.",
-            "sw": "Geofrey I. Ashery ni mtafiti mwenye uzoefu wa zaidi ya miaka minane katika afya ya mama na mtoto, na mhitimu wa sosholojia wa Chuo Kikuu Huria cha Tanzania. Anafanya kazi kama afisa utafiti na mwanasayansi wa jamii katika Taasisi ya Afya Ifakara, kwenye utafiti wa DYNAMIC unaotumia mifumo ya kielektroniki ya kufanya maamuzi kutibu watoto wagonjwa. Akiwa na shauku ya kuboresha maisha ya wanawake na watoto wasiojiweza, alikuwa mmoja wa waanzilishi wa KAZI Startfunding Tanzania."
+            "en": "Geofrey co-founded KAZI Startfunding Tanzania and serves as its Executive Secretary. He coordinates day-to-day operations, programme development and the partnerships that advance KAZI's work.",
+            "fr": "Geofrey a cofondé KAZI Startfunding Tanzanie, dont il est le secrétaire exécutif. Il coordonne les opérations quotidiennes, le développement des programmes et les partenariats qui font avancer le travail de KAZI.",
+            "sw": "Geofrey alianzisha KAZI Startfunding Tanzania pamoja na wenzake na ni Katibu Mtendaji wake. Anaratibu shughuli za kila siku, uandaaji wa programu na ushirikiano unaoendeleza kazi ya KAZI."
           },
           "photo": "assets/team/tz-geofrey-ashery.jpg"
         },
         {
-          "name": "Everester Kessy",
+          "name": "Felician C. Meza",
           "role": {
-            "en": "Project Coordinator",
-            "fr": "Coordinatrice de projets",
-            "sw": "Mratibu wa Miradi"
+            "en": "Co-Founder & Head of Finance",
+            "fr": "Cofondateur et responsable des finances",
+            "sw": "Mwanzilishi Mwenza na Mkuu wa Fedha"
           },
           "bio": {
-            "en": "Everester Kessy is a social entrepreneur committed to serving children, disadvantaged youth, women and men. She is skilled at building community support and key coalitions, and driven to achieve organisational and individual goals. She obtained her degree in social work from the University of Dar es Salaam in 2020 and works as Project Coordinator at KAZI Startfunding Tanzania.",
-            "fr": "Everester Kessy est une entrepreneuse sociale engagée au service des enfants, des jeunes défavorisés, des femmes et des hommes. Douée pour mobiliser le soutien des communautés et créer des coalitions, elle est motivée par l'atteinte des objectifs collectifs et individuels. Diplômée en travail social de l'Université de Dar es Salaam en 2020, elle est coordinatrice de projets chez KAZI Startfunding Tanzanie.",
-            "sw": "Everester Kessy ni mjasiriamali wa kijamii aliyejitolea kuwahudumia watoto, vijana wasiojiweza, wanawake na wanaume. Ana ujuzi wa kujenga uungwaji mkono wa jamii na ushirikiano muhimu, na ana ari ya kufikia malengo ya taasisi na ya mtu binafsi. Alipata shahada ya ustawi wa jamii kutoka Chuo Kikuu cha Dar es Salaam mwaka 2020, na ni Mratibu wa Miradi wa KAZI Startfunding Tanzania."
+            "en": "Felician co-founded KAZI Startfunding Tanzania and leads its finance function. He ensures sound financial management, transparency and accountability across all of KAZI's activities in Tanzania.",
+            "fr": "Felician a cofondé KAZI Startfunding Tanzanie et en dirige les finances. Il veille à une gestion financière saine, à la transparence et à la redevabilité dans toutes les activités de KAZI en Tanzanie.",
+            "sw": "Felician alianzisha KAZI Startfunding Tanzania pamoja na wenzake na anaongoza idara ya fedha. Anahakikisha usimamizi mzuri wa fedha, uwazi na uwajibikaji katika shughuli zote za KAZI nchini Tanzania."
+          },
+          "photo": "assets/team/tz-felician-clement-meza.jpg"
+        },
+        {
+          "name": "Everester B. Kessy",
+          "role": {
+            "en": "Programme Coordinator",
+            "fr": "Coordinatrice de programmes",
+            "sw": "Mratibu wa Programu"
+          },
+          "bio": {
+            "en": "Everester coordinates KAZI's programmes in Tanzania, planning and implementing activities and making sure they are delivered on time and to a high standard.",
+            "fr": "Everester coordonne les programmes de KAZI en Tanzanie : elle planifie et met en œuvre les activités, et veille à ce qu'elles soient réalisées dans les délais et avec un haut niveau de qualité.",
+            "sw": "Everester anaratibu programu za KAZI nchini Tanzania, akipanga na kutekeleza shughuli na kuhakikisha zinafanyika kwa wakati na kwa ubora wa hali ya juu."
           },
           "photo": "assets/team/tz-everester-kessy.jpg"
+        },
+        {
+          "name": "Heavenlight G. Maya",
+          "role": {
+            "en": "Revolving Fund Officer",
+            "fr": "Responsable du fonds renouvelable",
+            "sw": "Afisa wa Mfuko Unaozunguka"
+          },
+          "bio": {
+            "en": "Heavenlight manages the day-to-day operations of KAZI's revolving fund, supporting disbursement, repayment follow-up, and monitoring of the funded initiatives.",
+            "fr": "Heavenlight gère au quotidien le fonds renouvelable de KAZI : versement des prêts, suivi des remboursements et accompagnement des initiatives financées.",
+            "sw": "Heavenlight anasimamia shughuli za kila siku za mfuko unaozunguka wa KAZI, akisaidia utoaji wa mikopo, ufuatiliaji wa marejesho na ufuatiliaji wa miradi iliyofadhiliwa."
+          },
+          "photo": "assets/team/tz-heavenlight-maya.jpg"
         }
       ]
     },
@@ -206,8 +220,8 @@
         "sw": "FEDJIN KAZI Chad"
       },
       "intro": {
-        "en": "The local team in south-western Chad receives applications, selects projects, pays out the loans and supports each project holder until the loan is repaid.",
-        "fr": "L'équipe locale dans le sud-ouest du Tchad reçoit les candidatures, sélectionne les projets, verse les prêts et accompagne chaque porteur·euse de projet jusqu'au remboursement du prêt.",
+        "en": "The local team in the Pala area, south-western Chad, receives applications, selects projects, pays out the loans and supports each project holder until the loan is repaid.",
+        "fr": "L'équipe locale de la région de Pala, au sud-ouest du Tchad, reçoit les candidatures, sélectionne les projets, verse les prêts et accompagne chaque porteur·euse de projet jusqu'au remboursement du prêt.",
         "sw": "Timu ya kusini-magharibi mwa Chad inapokea maombi, inachagua miradi, inatoa mikopo na inamfuatilia kila mwenye mradi hadi mkopo urejeshwe."
       },
       "members": [
