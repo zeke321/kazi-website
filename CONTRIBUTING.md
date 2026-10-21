@@ -170,6 +170,8 @@ Once approved, the maintainer merges. Your work is now part of `main`.
 
 ### 7. Automatic deploy
 
+> **Note:** the site is currently hosted on Hostinger shared hosting, not on a VPS, so this automatic deploy does not run. After merging, the changed files must be uploaded by hand: see [docs/MISE-A-JOUR-DU-SITE.md](docs/MISE-A-JOUR-DU-SITE.md) (in French).
+
 Merging into `main` triggers `.github/workflows/deploy.yml`, which publishes the contents of `public/` to the KAZI server. Within a couple of minutes, the change is live. You do not need to do anything, and you must never copy files onto the server by hand.
 
 ---
