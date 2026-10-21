@@ -1,45 +1,53 @@
-# KAZI website
+# Site web KAZI
 
-Source code and content of the KAZI Switzerland website.
+Code et contenu du site de KAZI Suisse : https://kazi-funding.org
 
-The site is a static site: plain HTML, CSS and JavaScript in `public/`, with all editable
-content stored as JSON in `public/data/`. Anything merged into the `main` branch is
-published automatically to the server by GitHub Actions.
+Le site est statique (HTML, CSS, JavaScript) et se trouve dans `public/`. Les textes,
+projets, équipe et chiffres sont dans `public/data/*.json`.
 
-## Want to help edit the site?
+## Faire un changement sur le site
 
-**Read [CONTRIBUTING.md](CONTRIBUTING.md) first.** It explains, without assuming any
-GitHub experience:
+Quatre étapes. Aucune connaissance technique n'est nécessaire pour les trois premières.
 
-- how to ask for access to this repository,
-- how to propose a change through a pull request,
-- who reviews it and how it gets published,
-- why nothing goes online without a human reading it first.
+| # | Étape | Où |
+|---|---|---|
+| 1 | **Demander le changement** à l'IA (Claude) : « Sur le site KAZI, change [...]. Fais une pull request et dis-moi quels fichiers envoyer sur Hostinger. » | Claude |
+| 2 | **Valider** : ouvrir la pull request et cliquer sur **Merge pull request** | [Pull requests](https://github.com/zeke321/kazi-website/pulls) |
+| 3 | **Télécharger** le ou les fichiers modifiés (bouton *Download raw file*) | [Dossier `public/`](https://github.com/zeke321/kazi-website/tree/main/public) |
+| 4 | **Envoyer** ces fichiers sur Hostinger (File manager → `public_html`) | [Hostinger](https://hpanel.hostinger.com/websites) |
 
-![How to get access: ask, review, invite, accept, contribute](docs/images/access-flow.svg)
+> **Le site ne se met pas à jour tout seul.** Tant que l'étape 4 n'est pas faite, le
+> changement n'est visible que sur GitHub.
 
-## Ground rules
+Le détail de chaque clic est dans **[docs/MISE-A-JOUR-DU-SITE.md](docs/MISE-A-JOUR-DU-SITE.md)**.
 
-- `main` is the live website. It is protected: no direct pushes, no force pushes, no deletion.
-- Every change arrives through a pull request, passes the automated checks, and is reviewed
-  by a human before being merged.
-- Only the maintainer ([@zeke321](https://github.com/zeke321)) merges into `main`.
-- Never copy files onto the server by hand; the next deploy would overwrite them.
+## Liens utiles
 
-## Repository layout
+- Site en ligne : https://kazi-funding.org
+- Dépôt GitHub : https://github.com/zeke321/kazi-website
+- Hostinger : https://hpanel.hostinger.com/websites
+- Questions ou problèmes : [ouvrir une issue](https://github.com/zeke321/kazi-website/issues)
 
-| Path | Contents |
+## Règles
+
+- `main` est la version de référence du site. Pas de modification directe : tout passe
+  par une pull request relue par une personne.
+- Seul le responsable ([@zeke321](https://github.com/zeke321)) fusionne dans `main`.
+- Pour contribuer depuis un compte GitHub : voir [CONTRIBUTING.md](CONTRIBUTING.md) (en anglais).
+
+## Contenu du dépôt
+
+| Dossier | Contenu |
 | --- | --- |
-| `public/` | The website. Everything here is published. |
-| `public/data/` | Content: projects, team, partners, reports, stats, texts. |
-| `public/assets/` | Photos and logos. |
-| `public/reports/` | PDF reports. |
-| `scripts/check_data.py` | Validates the data files. Run before pushing. |
-| `deploy/` | Server configuration (Caddy, VPS setup). |
-| `.github/workflows/` | Automated checks and deployment. |
-| `.pages.yml` | Pages CMS configuration: web forms for non-technical editors. |
+| `public/` | Le site. Tout ce qui est ici est envoyé sur Hostinger. |
+| `public/data/` | Contenu modifiable : projets, équipe, partenaires, rapports, chiffres, textes. |
+| `public/assets/` | Photos et logos. |
+| `public/reports/` | Rapports d'activité (PDF). |
+| `scripts/check_data.py` | Vérifie les fichiers de données. |
+| `docs/` | Documentation. |
+| `deploy/`, `.github/workflows/deploy.yml` | Prévus pour un VPS. **Inutilisés aujourd'hui.** Ne pas toucher. |
 
-## Working locally
+## Tester sur son ordinateur (optionnel)
 
 ```bash
 git clone https://github.com/zeke321/kazi-website.git
@@ -48,9 +56,4 @@ python scripts/check_data.py
 python -m http.server 8000 --directory public
 ```
 
-Then open <http://localhost:8000>.
-
-## Contact
-
-Questions, access requests and bug reports: open an
-[issue](https://github.com/zeke321/kazi-website/issues).
+Puis ouvrir <http://localhost:8000>.
